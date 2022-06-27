@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5f1d62d5-15c1-4084-8414-15e30a067ac6": {
+      "ProjectGuid": "5f1d62d5-15c1-4084-8414-15e30a067ac6",
+      "DisplayName": "01. Ages",
+      "ColorIndex": 0
+    },
+    "59720c0a-2e89-48a2-9124-8f6aa2c210cb": {
+      "ProjectGuid": "59720c0a-2e89-48a2-9124-8f6aa2c210cb",
+      "DisplayName": "02. Division",
+      "ColorIndex": 1
+    },
+    "4ed4386b-e899-46c4-95cf-f1bf4cad65fa": {
+      "ProjectGuid": "4ed4386b-e899-46c4-95cf-f1bf4cad65fa",
+      "DisplayName": "03. Vacation",
+      "ColorIndex": 2
+    },
+    "61c38ba8-d19d-4187-b3ba-10073576a5d9": {
+      "ProjectGuid": "61c38ba8-d19d-4187-b3ba-10073576a5d9",
+      "DisplayName": "04. Print and sum",
+      "ColorIndex": 3
+    },
+    "c1872ebe-e45f-4f54-a86d-cb46c49f3d93": {
+      "ProjectGuid": "c1872ebe-e45f-4f54-a86d-cb46c49f3d93",
+      "DisplayName": "05. Login",
+      "ColorIndex": 4
+    },
+    "e8736b32-d078-4f27-85e0-e13aca37193b": {
+      "ProjectGuid": "e8736b32-d078-4f27-85e0-e13aca37193b",
+      "DisplayName": "06. Strong number",
+      "ColorIndex": 5
+    },
+    "1b0a8b26-a13a-4726-8675-3b31405df968": {
+      "ProjectGuid": "1b0a8b26-a13a-4726-8675-3b31405df968",
+      "DisplayName": "07. Vending Machine",
+      "ColorIndex": 6
+    },
+    "452890bc-383d-4c5a-bae7-66525ac74621": {
+      "ProjectGuid": "452890bc-383d-4c5a-bae7-66525ac74621",
+      "DisplayName": "08. Triangle of Numbers",
+      "ColorIndex": 7
+    },
+    "0750825d-dc55-4391-9d14-90a51136b36b": {
+      "ProjectGuid": "0750825d-dc55-4391-9d14-90a51136b36b",
+      "DisplayName": "09. Padawan Equipment",
+      "ColorIndex": 8
+    },
+    "f10396f6-e3df-4338-a128-b3b17f738237": {
+      "ProjectGuid": "f10396f6-e3df-4338-a128-b3b17f738237",
+      "DisplayName": "10. Rage Expenses",
+      "ColorIndex": 9
+    },
+    "cd6e2977-f079-4989-8382-c59040dd85c7": {
+      "ProjectGuid": "cd6e2977-f079-4989-8382-c59040dd85c7",
+      "DisplayName": "11. Orders",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

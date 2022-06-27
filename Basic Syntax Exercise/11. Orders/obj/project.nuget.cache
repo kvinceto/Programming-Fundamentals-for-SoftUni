@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DLvs9tkpqvK6LgvB1Pa/eIAW27CIdtw9alBu1xJzri+c5oXR7CPeHfBV0oDLNyfmhjl5hm9IgOme/qO7sG1LZg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax Exercise\\11. Orders\\11. Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

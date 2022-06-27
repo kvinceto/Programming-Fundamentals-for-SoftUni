@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sefLsQfDai7zrQ04XyqZYG5rf041XIGyAC62xdaJWyCVvi1ev+iFD7mQ4mNjM1jE2d/LPw/mL3vrz3htPLY+8g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax Exercise\\06. Strong number\\06. Strong number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

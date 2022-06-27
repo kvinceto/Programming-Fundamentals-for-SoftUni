@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MyP5PwZWkt1PYmhkBxx4muH7RqgLZUH1GB2lh3WTXG1F5X1fMtPn7MoPRUInitJLgm+jYG7Lweu4EKMujd4Oaw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax Exercise\\10. Rage Expenses\\10. Rage Expenses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

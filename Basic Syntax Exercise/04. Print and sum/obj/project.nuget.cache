@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZgfH4hs4ES2QWa0jwL7meANF6YOgcc7Le72LGLIQlK23flbM4Q8XESlXkYNpW8n+yXsQmou31EMXt/Wbv0dmPQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax Exercise\\04. Print and sum\\04. Print and sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

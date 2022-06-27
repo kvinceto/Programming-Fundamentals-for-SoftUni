@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3CUpZC5GkLDgbo91PruTPfCdGTvCaR1bOsmepKUA1YBf1dFY9wSOlQBJIb7iyR4BJNuoa+59qn0aL1bg7L1fIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax Exercise\\01. Ages\\01. Ages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

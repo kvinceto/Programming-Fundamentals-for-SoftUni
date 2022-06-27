@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HHcl+YyMvPI3L0yFjFxrC3PywPyUqY/IAmbrRrIPGvdTLG5Wg+fJr715tb91h6aNXERxF7RKQVyHuWqhjy0Azw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax Exercise\\05. Login\\05. Login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

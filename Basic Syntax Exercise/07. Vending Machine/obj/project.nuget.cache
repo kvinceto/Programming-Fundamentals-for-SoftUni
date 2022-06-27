@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h64nX8fLQ2iwWcyz4czsnlhQ6uU5EeaqqPhloFQRJYPmcgfJ8CCmRrpJwYe/iebWhpQDPt3QNNkkxR1RYKKSlA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax Exercise\\07. Vending Machine\\07. Vending Machine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
