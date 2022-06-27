@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "miy+W59r1LApBDOk0rWRQ9H6oZSd+GhNdfL+DooZQuhH4rh9nkXsKPEJn70KDNuABDMsyAbXDcPnPVLFk9kTQg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax - Lab\\06. Foreign Languages\\06. Foreign Languages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XpitsCxvTOBgXGm1ShX7z6+PLbiJHyHnLqFifJwz4KnZBS7Gt8KLXc3mW8UyxgWzyFydBgqOh00QsqqOC1J3QQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax - Lab\\09. Sum of Odd Numbers\\09. Sum of Odd Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

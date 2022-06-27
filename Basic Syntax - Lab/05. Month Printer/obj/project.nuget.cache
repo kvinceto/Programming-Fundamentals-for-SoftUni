@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sP934Frlg0i6MTH5ktGlZzfKJIjtibPUEhXl6Sz9LvZL5yNY4333IFcNr/NblED1o7RikokcB3OSww7/wrhJMw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax - Lab\\05. Month Printer\\05. Month Printer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87470011-4484-4b06-b84d-f13cd2be9bbf": {
+      "ProjectGuid": "87470011-4484-4b06-b84d-f13cd2be9bbf",
+      "DisplayName": "01. Student Information",
+      "ColorIndex": 0
+    },
+    "b3063bba-7f1c-4716-9027-2e0dae30429c": {
+      "ProjectGuid": "b3063bba-7f1c-4716-9027-2e0dae30429c",
+      "DisplayName": "02. Passed",
+      "ColorIndex": 1
+    },
+    "1c3c7192-d5af-484c-9c93-735dff26830d": {
+      "ProjectGuid": "1c3c7192-d5af-484c-9c93-735dff26830d",
+      "DisplayName": "03. Passed or Failed",
+      "ColorIndex": 2
+    },
+    "7d364940-b1cc-4567-90d6-491eccb79f2a": {
+      "ProjectGuid": "7d364940-b1cc-4567-90d6-491eccb79f2a",
+      "DisplayName": "04. Back In 30 Minutes",
+      "ColorIndex": 3
+    },
+    "53ffb2a8-6d2d-45ed-b5b0-7c4976783179": {
+      "ProjectGuid": "53ffb2a8-6d2d-45ed-b5b0-7c4976783179",
+      "DisplayName": "05. Month Printer",
+      "ColorIndex": 4
+    },
+    "d2f4e576-bf74-45f7-ac54-0c39ee2bba0f": {
+      "ProjectGuid": "d2f4e576-bf74-45f7-ac54-0c39ee2bba0f",
+      "DisplayName": "06. Foreign Languages",
+      "ColorIndex": 5
+    },
+    "98ccd4d6-3361-4179-9908-0b083ca4ed98": {
+      "ProjectGuid": "98ccd4d6-3361-4179-9908-0b083ca4ed98",
+      "DisplayName": "07. Theatre Promotion",
+      "ColorIndex": 6
+    },
+    "f5811980-c0cf-41b9-a181-cf99f0aaafc4": {
+      "ProjectGuid": "f5811980-c0cf-41b9-a181-cf99f0aaafc4",
+      "DisplayName": "08. Divisible by 3",
+      "ColorIndex": 7
+    },
+    "b4dcc090-e4a5-4a8e-9283-417b2f4d11e1": {
+      "ProjectGuid": "b4dcc090-e4a5-4a8e-9283-417b2f4d11e1",
+      "DisplayName": "09. Sum of Odd Numbers",
+      "ColorIndex": 8
+    },
+    "e20fb91d-8e6e-4451-84b5-71b314e0eb2c": {
+      "ProjectGuid": "e20fb91d-8e6e-4451-84b5-71b314e0eb2c",
+      "DisplayName": "10. Multiplication Table",
+      "ColorIndex": 9
+    },
+    "2406c33c-76d1-4648-bbc8-4615315a3ed2": {
+      "ProjectGuid": "2406c33c-76d1-4648-bbc8-4615315a3ed2",
+      "DisplayName": "11. Multiplication Table 2.0",
+      "ColorIndex": 10
+    },
+    "b9d7741a-1c8d-455f-a3e4-a1af369c4d67": {
+      "ProjectGuid": "b9d7741a-1c8d-455f-a3e4-a1af369c4d67",
+      "DisplayName": "12. Even Number",
+      "ColorIndex": 11
+    },
+    "c528e2d9-edf5-4c85-ac7a-7d5035222cd0": {
+      "ProjectGuid": "c528e2d9-edf5-4c85-ac7a-7d5035222cd0",
+      "DisplayName": "13. Holidays Between Two Dates",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

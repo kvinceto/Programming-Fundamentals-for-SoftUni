@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u0DDwLPARJz1keokuiauY4BPRc6qVYWGKcZgdUd1QB9gjhIH6xqCgW0NqgnOAcqDx8WR6yBSuxtsMAQSS0jtCg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax - Lab\\03. Passed or Failed\\03. Passed or Failed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

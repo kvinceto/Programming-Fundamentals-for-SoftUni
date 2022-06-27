@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNgvMrDu00b5ewcE6Sht78oTC9zh97jGoRHVVFYcU40/nVAMnfG/RbZbVwo0DLU22ULl6oP6gugTzMPdSctsOw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgr.Basics\\Programming-Fundamentals-for-SoftUni\\Basic Syntax - Lab\\01. Student Information\\01. Student Information.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
