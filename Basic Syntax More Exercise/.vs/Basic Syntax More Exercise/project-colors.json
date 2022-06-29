@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bdea6e11-9e62-42b5-b65a-3683d2a44a0e": {
+      "ProjectGuid": "bdea6e11-9e62-42b5-b65a-3683d2a44a0e",
+      "DisplayName": "01. Sort Numbers",
+      "ColorIndex": 0
+    },
+    "081d6d45-48c1-4701-8d97-ac415f3b6266": {
+      "ProjectGuid": "081d6d45-48c1-4701-8d97-ac415f3b6266",
+      "DisplayName": "02. English Name",
+      "ColorIndex": 1
+    },
+    "565068cc-73fd-4e7d-9f95-5b0e33a8630f": {
+      "ProjectGuid": "565068cc-73fd-4e7d-9f95-5b0e33a8630f",
+      "DisplayName": "03. Gaming Store",
+      "ColorIndex": 2
+    },
+    "baa8c565-765c-4e3a-a32d-058e662aee02": {
+      "ProjectGuid": "baa8c565-765c-4e3a-a32d-058e662aee02",
+      "DisplayName": "04. Reverse String",
+      "ColorIndex": 3
+    },
+    "0fc48b51-b4fd-4877-a28f-5f718231a3c4": {
+      "ProjectGuid": "0fc48b51-b4fd-4877-a28f-5f718231a3c4",
+      "DisplayName": "05. Messages",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

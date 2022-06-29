@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fwk4umVVgdx9T+hRqPlJYWg/L9j9+JJLsD13wmm8M/25oKImws1ggnZTEej2V/OXObfjAamjFG5uDZNKe+9qw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgrammingSoftUni\\Programming-Fundamentals-for-SoftUni\\Basic Syntax More Exercise\\04. Reverse String\\04. Reverse String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

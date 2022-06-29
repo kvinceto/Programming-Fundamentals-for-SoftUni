@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YEKx+ShYllrks07UTuJpYKpo2G12QxnGbrREk4WmCoDonEwXRPm/kevQ3j62i+ldm2mu/VwDBxufWhPbTUW6nA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgrammingSoftUni\\Programming-Fundamentals-for-SoftUni\\Basic Syntax More Exercise\\03. Gaming Store\\03. Gaming Store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pw99+kvj8fDB6cHpLicyIJfrgHN2R2ioIr6QLgayObS5jSSguFAiTt3+yMeQR66wNncx5x5VZViFRjM6uMGSBw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgrammingSoftUni\\Programming-Fundamentals-for-SoftUni\\Basic Syntax More Exercise\\05. Messages\\05. Messages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

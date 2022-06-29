@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bj8KOWXj531tN5uApFTI/corncXkma+fwEpCahnYVpreAHTpXycveRM9hH2WdAi+tS5X94w07esXaLPtkv4eVg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\GitHubRepositories\\GitHubProgrammingSoftUni\\Programming-Fundamentals-for-SoftUni\\Basic Syntax More Exercise\\01. Sort Numbers\\01. Sort Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
