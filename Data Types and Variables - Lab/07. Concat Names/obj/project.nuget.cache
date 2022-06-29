@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7lGbPSXwe8/dlog+gkLd2eNLRNkunY+xA+lrkjLBKyl5B2xT5TNdmtYgLps/102la32Gk5DXe9w4DizUDECw7g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - Lab\\07. Concat Names\\07. Concat Names.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

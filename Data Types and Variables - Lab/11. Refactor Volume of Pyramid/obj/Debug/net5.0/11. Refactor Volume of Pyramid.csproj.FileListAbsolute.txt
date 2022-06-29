@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\ref\11. Refactor Volume of Pyramid.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\ref\11. Refactor Volume of Pyramid.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.genruntimeconfig.cache

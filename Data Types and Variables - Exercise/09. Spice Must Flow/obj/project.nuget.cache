@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLQe/sBpZtXr4w2WLU9n5l5yN+mzYTR5AFkV6UDuXMBYYjcMKrT5/6Npdw2QLp0POGVpJaukr5CHYf2iF1/rWw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - Exercise\\09. Spice Must Flow\\09. Spice Must Flow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\ref\02. Pounds to Dollars.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\bin\Debug\net5.0\02. Pounds to Dollars.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\ref\02. Pounds to Dollars.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\02. Pounds to Dollars\obj\Debug\net5.0\02. Pounds to Dollars.genruntimeconfig.cache

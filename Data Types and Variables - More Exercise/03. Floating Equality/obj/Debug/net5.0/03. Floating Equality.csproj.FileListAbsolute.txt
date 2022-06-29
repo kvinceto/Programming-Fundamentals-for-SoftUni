@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\ref\03. Floating Equality.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\ref\03. Floating Equality.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.genruntimeconfig.cache

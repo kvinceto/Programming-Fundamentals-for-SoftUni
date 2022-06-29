@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\ref\01. Integer Operations.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\ref\01. Integer Operations.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.genruntimeconfig.cache

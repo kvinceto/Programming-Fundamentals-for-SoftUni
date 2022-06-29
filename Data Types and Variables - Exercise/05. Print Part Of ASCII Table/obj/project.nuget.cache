@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6nMtRI11q/LoufdStIZGh86qsYguIgNbeF1Xfjb5MB2Nwi+WFBRX+y5j5o+0t+Co3btEz4vK53vR05559fvwcw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - Exercise\\05. Print Part Of ASCII Table\\05. Print Part Of ASCII Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\ref\01. Data Type Finder.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\ref\01. Data Type Finder.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net5.0\ref\06. Triples of Latin Letters.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net5.0\ref\06. Triples of Latin Letters.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.genruntimeconfig.cache

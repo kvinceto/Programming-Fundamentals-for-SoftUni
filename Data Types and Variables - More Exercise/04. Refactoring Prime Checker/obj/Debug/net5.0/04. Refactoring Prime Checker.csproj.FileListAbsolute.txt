@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\ref\04. Refactoring Prime Checker.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\ref\04. Refactoring Prime Checker.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.genruntimeconfig.cache

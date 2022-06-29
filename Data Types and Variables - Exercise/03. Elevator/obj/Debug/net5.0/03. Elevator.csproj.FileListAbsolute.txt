@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\ref\03. Elevator.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\bin\Debug\net5.0\03. Elevator.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\ref\03. Elevator.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\03. Elevator\obj\Debug\net5.0\03. Elevator.genruntimeconfig.cache

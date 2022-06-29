@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qAjbpjb2phN9wT3xd9gAlhN9lNy6DgevhS0F6Guuq6O9hqePoI3wUTP7iprbbG034kERlPavodcNlzUprbQ52w==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - More Exercise\\04. Refactoring Prime Checker\\04. Refactoring Prime Checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

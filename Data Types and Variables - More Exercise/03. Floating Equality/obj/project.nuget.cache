@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yewQqO7VxdVtshmrl6kkTvi0R9HzNrI2zWwrUyx1Jkq0qqgLSxVTLXD3ZA3DUnTXnMOPAr9A+8G55U6JRrU9Dw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - More Exercise\\03. Floating Equality\\03. Floating Equality.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\ref\05. Decrypting Message.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\ref\05. Decrypting Message.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.genruntimeconfig.cache

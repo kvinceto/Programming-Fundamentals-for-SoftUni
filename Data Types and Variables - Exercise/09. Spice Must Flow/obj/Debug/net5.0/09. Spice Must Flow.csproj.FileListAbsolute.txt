@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net5.0\ref\09. Spice Must Flow.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\bin\Debug\net5.0\09. Spice Must Flow.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net5.0\ref\09. Spice Must Flow.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\09. Spice Must Flow\obj\Debug\net5.0\09. Spice Must Flow.genruntimeconfig.cache

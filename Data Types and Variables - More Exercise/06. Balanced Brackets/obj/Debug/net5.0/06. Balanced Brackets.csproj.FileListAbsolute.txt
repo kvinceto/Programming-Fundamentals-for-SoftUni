@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\ref\06. Balanced Brackets.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\ref\06. Balanced Brackets.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.genruntimeconfig.cache

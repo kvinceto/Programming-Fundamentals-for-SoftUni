@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4d08c533-fdd2-4e15-b441-88d21140a02e": {
+      "ProjectGuid": "4d08c533-fdd2-4e15-b441-88d21140a02e",
+      "DisplayName": "01. Convert Meters to Kilometers",
+      "ColorIndex": 0
+    },
+    "94d026ca-ed3e-4c83-a202-15a33a6428f0": {
+      "ProjectGuid": "94d026ca-ed3e-4c83-a202-15a33a6428f0",
+      "DisplayName": "02. Pounds to Dollars",
+      "ColorIndex": 1
+    },
+    "e85755b0-2410-486d-b680-88cbc3126faa": {
+      "ProjectGuid": "e85755b0-2410-486d-b680-88cbc3126faa",
+      "DisplayName": "03. Exact Sum of Real Numbers",
+      "ColorIndex": 2
+    },
+    "64630e5d-69d7-4707-8650-af9bb8f158ce": {
+      "ProjectGuid": "64630e5d-69d7-4707-8650-af9bb8f158ce",
+      "DisplayName": "04. Centuries to Minutes",
+      "ColorIndex": 3
+    },
+    "77dfba15-f1e8-4e2c-86fb-b900446d14d7": {
+      "ProjectGuid": "77dfba15-f1e8-4e2c-86fb-b900446d14d7",
+      "DisplayName": "05. Special Numbers",
+      "ColorIndex": 4
+    },
+    "feb2b45e-56a8-4dae-9df7-378546484d2a": {
+      "ProjectGuid": "feb2b45e-56a8-4dae-9df7-378546484d2a",
+      "DisplayName": "06. Reversed Chars",
+      "ColorIndex": 5
+    },
+    "44c551f4-2567-487c-be55-c39be1a70763": {
+      "ProjectGuid": "44c551f4-2567-487c-be55-c39be1a70763",
+      "DisplayName": "07. Concat Names",
+      "ColorIndex": 6
+    },
+    "9ecb8b7f-8768-471b-b709-848a63cd5a3f": {
+      "ProjectGuid": "9ecb8b7f-8768-471b-b709-848a63cd5a3f",
+      "DisplayName": "08. Town Info",
+      "ColorIndex": 7
+    },
+    "025277ae-447f-480c-948c-035756cbd453": {
+      "ProjectGuid": "025277ae-447f-480c-948c-035756cbd453",
+      "DisplayName": "09. Chars to String",
+      "ColorIndex": 8
+    },
+    "ae4da3c2-d3d8-4561-bb17-64208f962f56": {
+      "ProjectGuid": "ae4da3c2-d3d8-4561-bb17-64208f962f56",
+      "DisplayName": "10. Lower or Upper",
+      "ColorIndex": 9
+    },
+    "d4f36b30-9864-4223-b9c6-ace1fde1a4e1": {
+      "ProjectGuid": "d4f36b30-9864-4223-b9c6-ace1fde1a4e1",
+      "DisplayName": "11. Refactor Volume of Pyramid",
+      "ColorIndex": 10
+    },
+    "efb99849-c1a7-46e2-bc9f-00f86199e95b": {
+      "ProjectGuid": "efb99849-c1a7-46e2-bc9f-00f86199e95b",
+      "DisplayName": "12. Refactor Special Numbers",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

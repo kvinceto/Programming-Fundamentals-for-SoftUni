@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\ref\09. Chars to String.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\bin\Debug\net5.0\09. Chars to String.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\ref\09. Chars to String.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\09. Chars to String\obj\Debug\net5.0\09. Chars to String.genruntimeconfig.cache

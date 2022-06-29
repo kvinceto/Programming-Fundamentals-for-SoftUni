@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K7yKL+RGxLZ03pQ5HyA395s5C3DfzhbIqle3D2A5CAGhRfVNfWzufPUplvUx7YA9Trf0xZ+y3tjO0bJdpfF1+g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - Exercise\\01. Integer Operations\\01. Integer Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

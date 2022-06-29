@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mg0Ufyi+t74m4oxor3w103uDiYgT+KcLaZ5KzFUbYLl6f+joi3bTGifHGxEX/DT9WDSz2HWDPXvw4/V6neu3zg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - More Exercise\\06. Balanced Brackets\\06. Balanced Brackets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

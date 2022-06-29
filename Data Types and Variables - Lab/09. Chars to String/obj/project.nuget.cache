@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aynXf6xQ1ZlZrP1Jvr+6tWn+GIl4gl6il60pYpOu5/OwZ6yooz2ACqLp5MJL6BKvAVrprEwbx1LYic9JhzkGtQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - Lab\\09. Chars to String\\09. Chars to String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

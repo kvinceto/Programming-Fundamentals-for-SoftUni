@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "99QL9wJ82c7CmEC4Z/+vPfnj3JeqpQ0bJMa3sgfMn5w9G+U2twDkd3bybrYsRd5SBv37kXc5c+cmF+GkctPKOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - Lab\\06. Reversed Chars\\06. Reversed Chars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

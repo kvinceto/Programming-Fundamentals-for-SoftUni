@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.genruntimeconfig.cache

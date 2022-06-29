@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\ref\12. Refactor Special Numbers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\ref\12. Refactor Special Numbers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.genruntimeconfig.cache

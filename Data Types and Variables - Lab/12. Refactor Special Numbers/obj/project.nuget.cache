@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNRQYTQ+UwGf67tDzmmCPYiM/T8Ds3pDtsoWn8i5JNzLGnBjd28SxofotnnLxjE9WcJ9roVGt/ypHKRmu24p0g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - Lab\\12. Refactor Special Numbers\\12. Refactor Special Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

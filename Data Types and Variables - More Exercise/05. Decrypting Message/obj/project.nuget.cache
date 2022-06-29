@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+congP4MXYKQY9lxWSEy8AuYnuYN9roD3sVzbhvE4Y0C64ZL8clPxWljsczXtesQ+6dDKx/1GGk2RN6xjRRuaA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - More Exercise\\05. Decrypting Message\\05. Decrypting Message.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

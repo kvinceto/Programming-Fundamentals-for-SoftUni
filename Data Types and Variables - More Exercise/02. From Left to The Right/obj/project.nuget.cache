@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2skr9ZDrW7JANdm2JJMCuZ7pCAV4rePL/w1IO8RiIm/JhYgzFgks542K98GUJV2HmI6ff/gBWtXKptUDGRYvrQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - More Exercise\\02. From Left to The Right\\02. From Left to The Right.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

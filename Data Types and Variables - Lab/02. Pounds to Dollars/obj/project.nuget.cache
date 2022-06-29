@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XTO2Ykh8/9EqCiRp274aDhfJCKP9gyvPtcCLkfP/VFkRA/2yF6oT3AfKKSdv4t0uSoJUkcq6Ap3yivj0Kya/qg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

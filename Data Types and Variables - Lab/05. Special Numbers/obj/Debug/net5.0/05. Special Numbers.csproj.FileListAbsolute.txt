@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\ref\05. Special Numbers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\ref\05. Special Numbers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.genruntimeconfig.cache

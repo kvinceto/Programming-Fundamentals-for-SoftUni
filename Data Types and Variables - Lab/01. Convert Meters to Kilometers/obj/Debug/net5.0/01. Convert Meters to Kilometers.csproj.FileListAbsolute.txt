@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net5.0\ref\01. Convert Meters to Kilometers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net5.0\ref\01. Convert Meters to Kilometers.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.genruntimeconfig.cache

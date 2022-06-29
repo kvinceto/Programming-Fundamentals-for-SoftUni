@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\ref\02. Sum Digits.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\ref\02. Sum Digits.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.genruntimeconfig.cache

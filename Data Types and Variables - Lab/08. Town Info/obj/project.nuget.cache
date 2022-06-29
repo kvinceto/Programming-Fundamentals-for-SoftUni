@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NMWN2hlLgBuS4NFw/WPNew/IwSoIf+CCx4mBp8NeVoP45NMttorflzD22B2i0Yd0D3uWBMbJwMURTsK0RyL7JQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Data Types and Variables - Lab\\08. Town Info\\08. Town Info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

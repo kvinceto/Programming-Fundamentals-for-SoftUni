@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\ref\04. Centuries to Minutes.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\ref\04. Centuries to Minutes.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Lab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.genruntimeconfig.cache

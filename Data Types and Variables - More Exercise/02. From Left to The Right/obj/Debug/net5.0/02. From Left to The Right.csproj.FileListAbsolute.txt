@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\ref\02. From Left to The Right.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\ref\02. From Left to The Right.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.exe
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.deps.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net5.0\ref\07. Water Overflow.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net5.0\ref\07. Water Overflow.dll
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.pdb
+D:\Programs kvi\Fundamentals\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.genruntimeconfig.cache
