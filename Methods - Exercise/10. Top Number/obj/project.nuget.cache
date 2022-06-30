@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ar0PIuBlZcFrZq84v9qV+yMIaBJ5haDRymHscM6M1IQsFngd0areJypbvF0PibeqRR1HU119rCsJ3jXz7ed+CQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Exercise\\10. Top Number\\10. Top Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

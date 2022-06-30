@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYirq2jeC1y4L4vv0ETqkTLhJJQZk7Ftl6v+HwEAr9SzBZFA12FYRIpn4zszlwstFofb1FN1j9jYZ7cfJQ/j1A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Lab\\08. Math Powerr\\08. Math Powerr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7AT0dK3dSHJiCBms5dGfW6aSU+6Soq6BS2xk79FLfq52ajAhxcf6KJ1zRSGf6n6pt+VvRbv5MJ0WDihY0yKqFw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Lab\\04. Printing Triangle\\04. Printing Triangle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkMd8CMNMZRUgx5Ot4vXG7BUnlBYC23dAwoTTZ+/dAEeyDiJQD3nQ5g2cFXYYnk+/AfnkCHADnG6DnaGk06DFA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Lab\\05. Orders\\05. Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCTnYXpB5fLh5A+2n5XTrQFNo9rCPeLvnllJYnBxIu5evnHkltxBxhZjzwKTsgD3TBZzrm3t/arbQX+d+DFYnA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Exercise\\04. Password Validator\\04. Password Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

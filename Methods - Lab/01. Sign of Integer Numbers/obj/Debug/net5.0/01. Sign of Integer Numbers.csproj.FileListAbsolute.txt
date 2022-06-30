@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.exe
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.deps.json
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\net5.0\01. Sign of Integer Numbers.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\ref\01. Sign of Integer Numbers.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\net5.0\01. Sign of Integer Numbers.genruntimeconfig.cache

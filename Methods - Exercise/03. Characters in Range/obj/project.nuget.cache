@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N+y5CQ2GzqFnO/+1i2PJ72qp3ouO26I/AxFvYZe+D1h+eQI/OSAq90otIzfAgYUwmGeuX0oPlx3a2Udl9KwBGA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Exercise\\03. Characters in Range\\03. Characters in Range.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vr5PhW/gm1imZK5wQdMKRsxWynAE6+hgs14WqUXKKyKULeQ9RUz0fWe5PiO03YHOKVLA79pPXWb/Lg76dK2RSg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Lab\\09. Greater of Two Values\\09. Greater of Two Values.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

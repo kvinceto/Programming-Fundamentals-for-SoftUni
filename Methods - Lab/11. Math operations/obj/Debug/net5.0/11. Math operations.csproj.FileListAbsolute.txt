@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.exe
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.deps.json
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net5.0\ref\11. Math operations.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\bin\Debug\net5.0\11. Math operations.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net5.0\ref\11. Math operations.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\11. Math operations\obj\Debug\net5.0\11. Math operations.genruntimeconfig.cache

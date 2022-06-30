@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.exe
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.deps.json
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\net5.0\ref\07. Repeat String.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\bin\Debug\net5.0\07. Repeat String.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\net5.0\ref\07. Repeat String.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\07. Repeat String\obj\Debug\net5.0\07. Repeat String.genruntimeconfig.cache

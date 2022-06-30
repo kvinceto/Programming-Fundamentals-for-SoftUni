@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsVDFaZOeOQyqMeER2kzlQMLJZoEARx+i/XI/fEe0KqMklMgZG00Cf2fL5g58VMGRAYz1igt9Vh60jch6xpkVA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Exercise\\05. Add and Subtract\\05. Add and Subtract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

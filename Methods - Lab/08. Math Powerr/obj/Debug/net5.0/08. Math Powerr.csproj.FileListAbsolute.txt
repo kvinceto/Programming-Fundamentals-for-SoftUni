@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\bin\Debug\net5.0\08. Math Powerr.exe
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\bin\Debug\net5.0\08. Math Powerr.deps.json
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\bin\Debug\net5.0\08. Math Powerr.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\bin\Debug\net5.0\08. Math Powerr.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\bin\Debug\net5.0\08. Math Powerr.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\bin\Debug\net5.0\ref\08. Math Powerr.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\bin\Debug\net5.0\08. Math Powerr.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\obj\Debug\net5.0\08. Math Powerr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\obj\Debug\net5.0\08. Math Powerr.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\obj\Debug\net5.0\08. Math Powerr.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\obj\Debug\net5.0\08. Math Powerr.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\obj\Debug\net5.0\08. Math Powerr.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\obj\Debug\net5.0\ref\08. Math Powerr.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\obj\Debug\net5.0\08. Math Powerr.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\08. Math Powerr\obj\Debug\net5.0\08. Math Powerr.genruntimeconfig.cache

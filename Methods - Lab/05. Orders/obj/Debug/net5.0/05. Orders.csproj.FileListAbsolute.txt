@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.exe
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.deps.json
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\bin\Debug\net5.0\ref\05. Orders.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\bin\Debug\net5.0\05. Orders.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\obj\Debug\net5.0\ref\05. Orders.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\05. Orders\obj\Debug\net5.0\05. Orders.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.exe
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.deps.json
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\ref\06. Calculate Rectangle Area.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\ref\06. Calculate Rectangle Area.dll
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.pdb
+D:\Programs kvi\Fundamentals\Methods - Lab\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.genruntimeconfig.cache

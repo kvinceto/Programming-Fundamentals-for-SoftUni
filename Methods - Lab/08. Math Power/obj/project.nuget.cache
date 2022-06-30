@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKmsROV7tLyK35eT+Fa+sEj2pfrqprRpIbs1+elkiQiBLzDtA713chRznhMBHN+xGIK+RZd9hmw5oXZNrvyp0A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Lab\\08. Math Power\\08. Math Power.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

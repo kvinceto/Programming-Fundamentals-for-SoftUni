@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBr2U6xamGUMz8cwhTc6tfK73uIsrCNwqR/gDkWWphf/aSd0KadXt1KTuR08nbb0ODb6Nypv1lASLiy4QH2JnQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Exercise\\02. Vowels Count\\02. Vowels Count.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

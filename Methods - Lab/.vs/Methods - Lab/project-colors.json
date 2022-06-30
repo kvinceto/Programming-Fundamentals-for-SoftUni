@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87079dba-5d40-4eb3-a9cf-8d41280262c9": {
+      "ProjectGuid": "87079dba-5d40-4eb3-a9cf-8d41280262c9",
+      "DisplayName": "01. Sign of Integer Numbers",
+      "ColorIndex": 0
+    },
+    "7b16b96a-adfe-449c-886d-15fb3d0bce8b": {
+      "ProjectGuid": "7b16b96a-adfe-449c-886d-15fb3d0bce8b",
+      "DisplayName": "02. Grades",
+      "ColorIndex": 1
+    },
+    "c06d648b-aa6b-48a5-8e8a-0299727a45bf": {
+      "ProjectGuid": "c06d648b-aa6b-48a5-8e8a-0299727a45bf",
+      "DisplayName": "03. Calculations",
+      "ColorIndex": 2
+    },
+    "044f05ff-1fa0-4f91-828b-f34023749adc": {
+      "ProjectGuid": "044f05ff-1fa0-4f91-828b-f34023749adc",
+      "DisplayName": "04. Printing Triangle",
+      "ColorIndex": 3
+    },
+    "10de5a3a-1e71-4c7b-9040-b22f910a23f7": {
+      "ProjectGuid": "10de5a3a-1e71-4c7b-9040-b22f910a23f7",
+      "DisplayName": "05. Orders",
+      "ColorIndex": 4
+    },
+    "b61f1dbf-8f00-4c91-b8f0-7743fef92e58": {
+      "ProjectGuid": "b61f1dbf-8f00-4c91-b8f0-7743fef92e58",
+      "DisplayName": "06. Calculate Rectangle Area",
+      "ColorIndex": 5
+    },
+    "8d93e1a0-01e7-44be-a60c-212291a92e79": {
+      "ProjectGuid": "8d93e1a0-01e7-44be-a60c-212291a92e79",
+      "DisplayName": "07. Repeat String",
+      "ColorIndex": 6
+    },
+    "78c56fbe-6717-41ff-abca-024198ade357": {
+      "ProjectGuid": "78c56fbe-6717-41ff-abca-024198ade357",
+      "DisplayName": "08. Math Power",
+      "ColorIndex": 7
+    },
+    "5d0abbf8-f0ba-4dc4-a4ca-e1115dd0e960": {
+      "ProjectGuid": "5d0abbf8-f0ba-4dc4-a4ca-e1115dd0e960",
+      "DisplayName": "08. Math Powerr",
+      "ColorIndex": 8
+    },
+    "8518a048-ee75-4757-86bd-0607015f0267": {
+      "ProjectGuid": "8518a048-ee75-4757-86bd-0607015f0267",
+      "DisplayName": "09. Greater of Two Values",
+      "ColorIndex": 9
+    },
+    "a4d01b68-8626-4272-973d-869b65143282": {
+      "ProjectGuid": "a4d01b68-8626-4272-973d-869b65143282",
+      "DisplayName": "10. Multiply Evens by Odds",
+      "ColorIndex": 10
+    },
+    "2d656ba6-15cc-4fba-bc42-561884277d70": {
+      "ProjectGuid": "2d656ba6-15cc-4fba-bc42-561884277d70",
+      "DisplayName": "11. Math operations",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

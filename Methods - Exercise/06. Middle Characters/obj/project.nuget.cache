@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxpEhTUBst2QpLqigJRbSeguOuZ4nNqudmBOHB3de72jzAWCBVO9OCz3YzLDqoVTKYL5rzkh/JwUqXa/fpmgvg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Exercise\\06. Middle Characters\\06. Middle Characters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

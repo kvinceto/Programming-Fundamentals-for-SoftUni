@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vFjbnXMViigyb8EVj/YvW0aW7nCotBHhP1Ibcj6dggu4ehqDMtMpwbtyzfvTaowha6gwLafv79mQmtm3CTdy6g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Methods - Lab\\10. Multiply Evens by Odds\\10. Multiply Evens by Odds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
