@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fgi97jLq852nCBroX3MT8/thfMQF3T41634zoVyVO85e+OkKmZtEqa53+5fkepfEIJBqLMXLzv9ObnIm/D1mgA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Arrays - Exercise\\09. Kamino Factory\\09. Kamino Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

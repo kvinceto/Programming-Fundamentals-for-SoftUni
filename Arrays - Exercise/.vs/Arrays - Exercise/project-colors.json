@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24fc1591-00a2-48ac-aa40-bf790627c48c": {
+      "ProjectGuid": "24fc1591-00a2-48ac-aa40-bf790627c48c",
+      "DisplayName": "01. Train",
+      "ColorIndex": 0
+    },
+    "fdc6f0c2-ac3c-4b73-941a-9de9539cbd02": {
+      "ProjectGuid": "fdc6f0c2-ac3c-4b73-941a-9de9539cbd02",
+      "DisplayName": "02. Common Elements",
+      "ColorIndex": 1
+    },
+    "2742f48a-4aa3-4ac7-9a1a-f9e822486118": {
+      "ProjectGuid": "2742f48a-4aa3-4ac7-9a1a-f9e822486118",
+      "DisplayName": "03. Zig-Zag Arrays",
+      "ColorIndex": 2
+    },
+    "1d43e415-8732-4065-bf35-7ebd088b645c": {
+      "ProjectGuid": "1d43e415-8732-4065-bf35-7ebd088b645c",
+      "DisplayName": "04. Array Rotation",
+      "ColorIndex": 3
+    },
+    "99fb7902-1364-458d-83f6-9a08e4bd1ea1": {
+      "ProjectGuid": "99fb7902-1364-458d-83f6-9a08e4bd1ea1",
+      "DisplayName": "05. Top Integers",
+      "ColorIndex": 4
+    },
+    "c46c8238-d39f-4419-b098-d071819f2292": {
+      "ProjectGuid": "c46c8238-d39f-4419-b098-d071819f2292",
+      "DisplayName": "06. Equal Sum",
+      "ColorIndex": 5
+    },
+    "89defa1e-766b-4cc3-95da-ac4a240d887a": {
+      "ProjectGuid": "89defa1e-766b-4cc3-95da-ac4a240d887a",
+      "DisplayName": "07. Max Sequence of Equal Elements",
+      "ColorIndex": 6
+    },
+    "cc3e49c4-336e-4513-8075-7ec78a62f3ec": {
+      "ProjectGuid": "cc3e49c4-336e-4513-8075-7ec78a62f3ec",
+      "DisplayName": "07. Max Sequence of Equal Elements 2",
+      "ColorIndex": 7
+    },
+    "c5c33aca-6f95-4254-9d08-3447ee72f872": {
+      "ProjectGuid": "c5c33aca-6f95-4254-9d08-3447ee72f872",
+      "DisplayName": "08. Magic Sum",
+      "ColorIndex": 8
+    },
+    "625d8f72-31b3-418d-a941-d64421b3c185": {
+      "ProjectGuid": "625d8f72-31b3-418d-a941-d64421b3c185",
+      "DisplayName": "09. Kamino Factory",
+      "ColorIndex": 9
+    },
+    "097520a0-c54c-4825-8091-bd999e2cfdb2": {
+      "ProjectGuid": "097520a0-c54c-4825-8091-bd999e2cfdb2",
+      "DisplayName": "09. Kamino Factory",
+      "ColorIndex": 10
+    },
+    "422deac5-041d-4f00-a08c-167f49042a86": {
+      "ProjectGuid": "422deac5-041d-4f00-a08c-167f49042a86",
+      "DisplayName": "10. LadyBugs",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

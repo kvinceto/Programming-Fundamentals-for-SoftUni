@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.exe
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.deps.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\ref\01. Train.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\ref\01. Train.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.genruntimeconfig.cache

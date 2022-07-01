@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q/lmLec2HKygBK9wjKoNvvkO1NoDowuiu1xMiH9uMbeLDqtTwLphebkfVG/OtqCKywY7Q33t6MQq/kpNt+E1Bg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Arrays - Lab\\05. Sum Even Numbers\\05. Sum Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

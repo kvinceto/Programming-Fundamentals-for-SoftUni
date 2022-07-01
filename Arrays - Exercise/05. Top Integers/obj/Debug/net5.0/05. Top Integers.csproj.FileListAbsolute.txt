@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.exe
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.deps.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\ref\05. Top Integers.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\ref\05. Top Integers.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.genruntimeconfig.cache

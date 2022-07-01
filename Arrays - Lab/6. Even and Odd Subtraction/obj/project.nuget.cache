@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BxvnfQYnke/KbNdfgxq9d7/1/W2Eop44g0Gf5s9KEIOTy5woUpo4yrty8dyf8YC/b0dujEEEG02/280KleVlIg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Arrays - Lab\\6. Even and Odd Subtraction\\6. Even and Odd Subtraction..csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

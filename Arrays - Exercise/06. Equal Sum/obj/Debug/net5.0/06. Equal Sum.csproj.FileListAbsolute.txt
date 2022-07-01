@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.exe
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.deps.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\ref\06. Equal Sum.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\ref\06. Equal Sum.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.genruntimeconfig.cache

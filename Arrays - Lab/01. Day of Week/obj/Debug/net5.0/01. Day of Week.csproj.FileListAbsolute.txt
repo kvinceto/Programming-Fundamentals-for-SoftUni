@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.exe
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.deps.json
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.dll
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\ref\01. Day of Week.dll
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.pdb
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.dll
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\ref\01. Day of Week.dll
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.pdb
+D:\Programs kvi\Fundamentals\Arrays - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ef9417a-0b80-4e1b-9371-704a4999d5a2": {
+      "ProjectGuid": "2ef9417a-0b80-4e1b-9371-704a4999d5a2",
+      "DisplayName": "01. Day of Week",
+      "ColorIndex": 0
+    },
+    "c818a795-7fbb-4cdf-ba99-56a113bb0fe7": {
+      "ProjectGuid": "c818a795-7fbb-4cdf-ba99-56a113bb0fe7",
+      "DisplayName": "02. Print Numbers in Reverse Order",
+      "ColorIndex": 1
+    },
+    "0d9d2905-bcb4-474a-8e9d-a33c24a30fd9": {
+      "ProjectGuid": "0d9d2905-bcb4-474a-8e9d-a33c24a30fd9",
+      "DisplayName": "03. Rounding Numbers",
+      "ColorIndex": 2
+    },
+    "108a1396-fa21-4160-b3f1-a8e5c172fa83": {
+      "ProjectGuid": "108a1396-fa21-4160-b3f1-a8e5c172fa83",
+      "DisplayName": "04. Reverse Array of Strings",
+      "ColorIndex": 3
+    },
+    "879c36a9-1e8e-415d-9a9d-8a6bfb031458": {
+      "ProjectGuid": "879c36a9-1e8e-415d-9a9d-8a6bfb031458",
+      "DisplayName": "05. Sum Even Numbers",
+      "ColorIndex": 4
+    },
+    "236c58c3-5201-4508-a075-2a4770161ee5": {
+      "ProjectGuid": "236c58c3-5201-4508-a075-2a4770161ee5",
+      "DisplayName": "06. Even and Odd Subtraction",
+      "ColorIndex": 5
+    },
+    "1417199d-a024-4d27-b306-82e36c9f6125": {
+      "ProjectGuid": "1417199d-a024-4d27-b306-82e36c9f6125",
+      "DisplayName": "6. Even and Odd Subtraction.",
+      "ColorIndex": 6
+    },
+    "dba1c236-0eaf-490c-898b-a4cf3fd020e8": {
+      "ProjectGuid": "dba1c236-0eaf-490c-898b-a4cf3fd020e8",
+      "DisplayName": "07. Equal Arrays",
+      "ColorIndex": 7
+    },
+    "106c5174-5d0d-4cb6-bf3c-b2c60b0279ce": {
+      "ProjectGuid": "106c5174-5d0d-4cb6-bf3c-b2c60b0279ce",
+      "DisplayName": "08. Condense Array to Number",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

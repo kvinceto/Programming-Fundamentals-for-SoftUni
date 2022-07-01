@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.exe
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.deps.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\ref\04. Array Rotation.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\ref\04. Array Rotation.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.genruntimeconfig.cache

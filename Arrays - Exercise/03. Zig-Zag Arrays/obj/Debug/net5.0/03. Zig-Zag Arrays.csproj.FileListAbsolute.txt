@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.exe
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.deps.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3anLUy3PkDN9VX1dZL9mwZJ6diCL11KCe24WSvZGWIY5aGYu904bwkVBdm8tCZ0dfbro1CCwyVcS4sjPWo8nzw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Arrays - Lab\\04. Reverse Array of Strings\\04. Reverse Array of Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

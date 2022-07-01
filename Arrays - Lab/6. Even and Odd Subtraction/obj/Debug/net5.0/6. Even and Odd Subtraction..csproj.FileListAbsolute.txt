@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction..exe
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction..deps.json
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction..runtimeconfig.json
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction..runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction..dll
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\bin\Debug\net5.0\ref\6. Even and Odd Subtraction..dll
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\bin\Debug\net5.0\6. Even and Odd Subtraction..pdb
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction..GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction..AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction..AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction..csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction..dll
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\obj\Debug\net5.0\ref\6. Even and Odd Subtraction..dll
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction..pdb
+D:\Programs kvi\Fundamentals\Arrays - Lab\6. Even and Odd Subtraction\obj\Debug\net5.0\6. Even and Odd Subtraction..genruntimeconfig.cache

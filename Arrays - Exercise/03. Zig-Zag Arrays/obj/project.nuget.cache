@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qj04IEo47C2/oZnliLfWmsOLRUC/1BD3R4Bx/eJu+cRGAri9yfrKMPmyFGiOOJILxzCUvgGEJdWTSxNQCZ/Oqw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Arrays - Exercise\\03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

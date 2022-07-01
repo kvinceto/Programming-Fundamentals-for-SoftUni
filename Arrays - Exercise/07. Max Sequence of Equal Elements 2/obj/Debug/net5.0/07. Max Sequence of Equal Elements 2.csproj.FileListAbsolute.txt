@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\bin\Debug\net5.0\07. Max Sequence of Equal Elements 2.exe
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\bin\Debug\net5.0\07. Max Sequence of Equal Elements 2.deps.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\bin\Debug\net5.0\07. Max Sequence of Equal Elements 2.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\bin\Debug\net5.0\07. Max Sequence of Equal Elements 2.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\bin\Debug\net5.0\07. Max Sequence of Equal Elements 2.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\bin\Debug\net5.0\ref\07. Max Sequence of Equal Elements 2.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\bin\Debug\net5.0\07. Max Sequence of Equal Elements 2.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\obj\Debug\net5.0\07. Max Sequence of Equal Elements 2.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\obj\Debug\net5.0\07. Max Sequence of Equal Elements 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\obj\Debug\net5.0\07. Max Sequence of Equal Elements 2.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\obj\Debug\net5.0\07. Max Sequence of Equal Elements 2.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\obj\Debug\net5.0\07. Max Sequence of Equal Elements 2.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\obj\Debug\net5.0\07. Max Sequence of Equal Elements 2.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\obj\Debug\net5.0\ref\07. Max Sequence of Equal Elements 2.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\obj\Debug\net5.0\07. Max Sequence of Equal Elements 2.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\07. Max Sequence of Equal Elements 2\obj\Debug\net5.0\07. Max Sequence of Equal Elements 2.genruntimeconfig.cache

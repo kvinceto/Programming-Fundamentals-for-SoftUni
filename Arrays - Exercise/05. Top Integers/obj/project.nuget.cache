@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0gNTNyB3m/IOqKWIpPVMGtcV+u4aYsiS+oSM/HQxF/ZKXBlvC4W4icsM/CgT/3J+i0l1VWRc48cmpBUbjEs8Dg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Arrays - Exercise\\05. Top Integers\\05. Top Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

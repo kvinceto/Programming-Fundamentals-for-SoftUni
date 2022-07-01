@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAxtEbsNt2oFuh4WiBzeLU3AzUG6KgsQepGDWNWO3HiAOViXRzKIlkLL4rJ+BzeAE4o4V2SbgtAhq2XX2O0xqg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Arrays - Lab\\01. Day of Week\\01. Day of Week.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

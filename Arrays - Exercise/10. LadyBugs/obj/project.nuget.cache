@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGiilS+uiEN9vwwKi/auMUzWiSZGnUQ4aXhzIyZLrRmZfehrz9/26b3qnLNFMpfCo6wEo3Vv3c6tmUefelMveA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Arrays - Exercise\\10. LadyBugs\\10. LadyBugs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.exe
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.deps.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\ref\02. Common Elements.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\ref\02. Common Elements.dll
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.pdb
+D:\Programs kvi\Fundamentals\Arrays - Exercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.genruntimeconfig.cache

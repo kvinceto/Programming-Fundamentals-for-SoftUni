@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+T9FeucKnUmm7rPM94+atdH9E5uCoahuu3LF/Wmvy4tkLKVV+wV8hcLsKnf21Ibd7j4izVeUCc4x8tWP0loRQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Arrays - Exercise\\06. Equal Sum\\06. Equal Sum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
