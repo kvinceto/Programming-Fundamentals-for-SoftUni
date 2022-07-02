@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.exe
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.deps.json
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net5.0\ref\02. Change List.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\bin\Debug\net5.0\02. Change List.pdb
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net5.0\ref\02. Change List.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.pdb
+D:\Programs kvi\Fundamentals\Lists - Exercise\02. Change List\obj\Debug\net5.0\02. Change List.genruntimeconfig.cache

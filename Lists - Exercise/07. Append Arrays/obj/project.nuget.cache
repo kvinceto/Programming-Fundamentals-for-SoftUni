@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Yxwz/hdXewiYjP4KbWdYjiYRLAElOqI5UIWVb6MrzKKAz0RKvsX0Dxco/XbKdtnTJMJ/3ShrWlB/Z2tSTV9eA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Lists - Exercise\\07. Append Arrays\\07. Append Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

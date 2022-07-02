@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.exe
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.deps.json
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\ref\03. Merging Lists.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\ref\03. Merging Lists.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.genruntimeconfig.cache

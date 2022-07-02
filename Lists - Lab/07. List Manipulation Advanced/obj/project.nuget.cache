@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D9aFCkOIwwnPB+QIJXmF0RSC30CaopNmsxX7KhipH2B9T05ZtrdB21J6o0qS+KpNG6Ninz6EQnxwSDC7dv+wAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Lists - Lab\\07. List Manipulation Advanced\\07. List Manipulation Advanced.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

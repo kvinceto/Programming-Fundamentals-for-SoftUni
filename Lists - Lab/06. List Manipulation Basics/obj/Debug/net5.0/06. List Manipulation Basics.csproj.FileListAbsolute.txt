@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.exe
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.deps.json
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\ref\06. List Manipulation Basics.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\ref\06. List Manipulation Basics.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.genruntimeconfig.cache

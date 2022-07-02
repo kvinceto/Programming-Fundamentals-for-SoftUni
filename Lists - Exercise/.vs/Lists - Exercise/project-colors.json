@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef264059-02b8-4191-8802-f19c38923170": {
+      "ProjectGuid": "ef264059-02b8-4191-8802-f19c38923170",
+      "DisplayName": "01. Train",
+      "ColorIndex": 0
+    },
+    "93821179-e45f-4f7e-b5ee-eee56f4324a3": {
+      "ProjectGuid": "93821179-e45f-4f7e-b5ee-eee56f4324a3",
+      "DisplayName": "02. Change List",
+      "ColorIndex": 1
+    },
+    "d341f4b4-5b4e-4ad5-b69e-554d45803889": {
+      "ProjectGuid": "d341f4b4-5b4e-4ad5-b69e-554d45803889",
+      "DisplayName": "03. House Party",
+      "ColorIndex": 2
+    },
+    "d1d1f0f6-5d12-4dd6-bcda-b41005c728dd": {
+      "ProjectGuid": "d1d1f0f6-5d12-4dd6-bcda-b41005c728dd",
+      "DisplayName": "04. List Operations",
+      "ColorIndex": 3
+    },
+    "db4ef140-64c5-4a53-a5f8-db31aff320d3": {
+      "ProjectGuid": "db4ef140-64c5-4a53-a5f8-db31aff320d3",
+      "DisplayName": "05. Bomb Numbers",
+      "ColorIndex": 4
+    },
+    "201bfa95-ecc1-4767-ae44-8891fe3e2ade": {
+      "ProjectGuid": "201bfa95-ecc1-4767-ae44-8891fe3e2ade",
+      "DisplayName": "06. Cards Game",
+      "ColorIndex": 5
+    },
+    "ae129d8d-557a-4e25-93b2-ba5bb32b44cd": {
+      "ProjectGuid": "ae129d8d-557a-4e25-93b2-ba5bb32b44cd",
+      "DisplayName": "07. Append Arrays",
+      "ColorIndex": 6
+    },
+    "a861cce3-5366-49eb-9f16-8b17dbbb289a": {
+      "ProjectGuid": "a861cce3-5366-49eb-9f16-8b17dbbb289a",
+      "DisplayName": "08. Anonymous Threat",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

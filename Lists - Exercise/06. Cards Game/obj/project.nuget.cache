@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZHwiHd0a+5SeJfpMGbPA6JlMXxFbV7kqPqaGvfaFev3XjbQwta3b8rGRsYzKa3stSey0/P5c6aoV2V5DpANOkA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Lists - Exercise\\06. Cards Game\\06. Cards Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

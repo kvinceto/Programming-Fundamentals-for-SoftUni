@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.exe
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.deps.json
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\ref\05. Remove Negatives and Reverse.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\ref\05. Remove Negatives and Reverse.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.genruntimeconfig.cache

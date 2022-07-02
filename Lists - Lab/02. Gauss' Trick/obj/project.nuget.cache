@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XZZygNwsEtGfljwV/6JRYIFL9aCTWinv6QxwdG9uVL/CixhGkqC/w8iOhlefVwmKq0d79e68JmdQ78VZx+HTJA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Lists - Lab\\02. Gauss' Trick\\02. Gauss' Trick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

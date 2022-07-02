@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.exe
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.deps.json
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net5.0\ref\07. Append Arrays.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\bin\Debug\net5.0\07. Append Arrays.pdb
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net5.0\ref\07. Append Arrays.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.pdb
+D:\Programs kvi\Fundamentals\Lists - Exercise\07. Append Arrays\obj\Debug\net5.0\07. Append Arrays.genruntimeconfig.cache

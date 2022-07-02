@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u904IwVJj9r6nK/t52Kr8H6WR58+F9WQSAPDyP3HhxXgy4BI3o0WFFLjk1cqmNmZJeHRYk0Hl+2N5M+NUDSQKw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Lists - Exercise\\01. Train\\01. Train.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

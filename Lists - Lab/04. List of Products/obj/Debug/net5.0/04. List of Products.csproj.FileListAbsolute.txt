@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.exe
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.deps.json
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\bin\Debug\net5.0\ref\04. List of Products.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\bin\Debug\net5.0\04. List of Products.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\obj\Debug\net5.0\ref\04. List of Products.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\04. List of Products\obj\Debug\net5.0\04. List of Products.genruntimeconfig.cache

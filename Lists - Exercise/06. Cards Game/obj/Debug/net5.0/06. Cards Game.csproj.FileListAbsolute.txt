@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.exe
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.deps.json
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\ref\06. Cards Game.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\bin\Debug\net5.0\06. Cards Game.pdb
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\ref\06. Cards Game.dll
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.pdb
+D:\Programs kvi\Fundamentals\Lists - Exercise\06. Cards Game\obj\Debug\net5.0\06. Cards Game.genruntimeconfig.cache

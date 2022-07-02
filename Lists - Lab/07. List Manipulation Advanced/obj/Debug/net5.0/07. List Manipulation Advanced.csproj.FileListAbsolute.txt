@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.exe
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.deps.json
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\ref\07. List Manipulation Advanced.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\bin\Debug\net5.0\07. List Manipulation Advanced.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\ref\07. List Manipulation Advanced.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\07. List Manipulation Advanced\obj\Debug\net5.0\07. List Manipulation Advanced.genruntimeconfig.cache

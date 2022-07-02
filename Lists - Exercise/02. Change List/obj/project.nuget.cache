@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MCWc2rKwmc51I2jqChuMwMSJOmGjqoxZuwygr3P9mSVu7cUJipxQw15W4Ve1WHWSUex84ijPyJp+sPe7XPaajA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Lists - Exercise\\02. Change List\\02. Change List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

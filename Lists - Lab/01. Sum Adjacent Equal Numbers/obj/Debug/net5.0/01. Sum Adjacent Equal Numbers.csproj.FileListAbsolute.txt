@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.exe
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.deps.json
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\ref\01. Sum Adjacent Equal Numbers.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\bin\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\ref\01. Sum Adjacent Equal Numbers.dll
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.pdb
+D:\Programs kvi\Fundamentals\Lists - Lab\01. Sum Adjacent Equal Numbers\obj\Debug\net5.0\01. Sum Adjacent Equal Numbers.genruntimeconfig.cache
