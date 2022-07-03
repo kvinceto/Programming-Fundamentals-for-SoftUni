@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.exe
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.deps.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\ref\01. Advertisement Message.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.pdb
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\ref\01. Advertisement Message.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.pdb
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.genruntimeconfig.cache

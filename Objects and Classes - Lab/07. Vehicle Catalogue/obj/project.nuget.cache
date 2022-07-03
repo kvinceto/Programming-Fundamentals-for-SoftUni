@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ei6u0oiw73erCgFEXK3zTatPwIBKZ24xasq9a8JBGsQd986Bqkh8ixnZXeAoq+4GNCDsjdnrA/w07sb4eJR/Jw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Objects and Classes - Lab\\07. Vehicle Catalogue\\07. Vehicle Catalogue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eeHW4WeQZQKl+OrznCbjn1vumVV3of8sW5PnV9NYOicjkLu7HNphsGWtBSAJ1nz0NnVZbwNuoSZkGGEy3sVQZg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Objects and Classes - Exercise\\01. Advertisement Message\\01. Advertisement Message.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

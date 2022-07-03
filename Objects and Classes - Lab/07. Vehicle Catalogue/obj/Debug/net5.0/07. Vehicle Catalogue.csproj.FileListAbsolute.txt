@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.exe
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.deps.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\ref\07. Vehicle Catalogue.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.pdb
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\ref\07. Vehicle Catalogue.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.pdb
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.genruntimeconfig.cache

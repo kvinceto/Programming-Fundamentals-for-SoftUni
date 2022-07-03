@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "11YsclyI7XQN8Sbb5blmg/cLIA6jGf1HVQol0PLWYbw7zHFYSQZWrvb1UZiv9VhFuZnMd6q7+/0hkvwgbPO5bQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Objects and Classes - Exercise\\03. Articles 2.0\\03. Articles 2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

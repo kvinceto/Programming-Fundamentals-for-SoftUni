@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73576ec1-5bcb-45e8-8f87-3403ca33077b": {
+      "ProjectGuid": "73576ec1-5bcb-45e8-8f87-3403ca33077b",
+      "DisplayName": "01. Advertisement Message",
+      "ColorIndex": 0
+    },
+    "2c3ccb2e-f978-457f-b1e7-8c6a22d1ce58": {
+      "ProjectGuid": "2c3ccb2e-f978-457f-b1e7-8c6a22d1ce58",
+      "DisplayName": "02. Articles",
+      "ColorIndex": 1
+    },
+    "54680c6e-6bb4-4fb7-b4b4-62645846394e": {
+      "ProjectGuid": "54680c6e-6bb4-4fb7-b4b4-62645846394e",
+      "DisplayName": "02. Articles",
+      "ColorIndex": 2
+    },
+    "7ed2948e-a74b-4412-aea2-c92446d8ea8a": {
+      "ProjectGuid": "7ed2948e-a74b-4412-aea2-c92446d8ea8a",
+      "DisplayName": "03. Articles 2.0",
+      "ColorIndex": 3
+    },
+    "19b64ae2-ea16-4c55-b3da-2e86b7c415ff": {
+      "ProjectGuid": "19b64ae2-ea16-4c55-b3da-2e86b7c415ff",
+      "DisplayName": "04. Students",
+      "ColorIndex": 4
+    },
+    "027911cb-2629-439e-99a0-899638ee3b16": {
+      "ProjectGuid": "027911cb-2629-439e-99a0-899638ee3b16",
+      "DisplayName": "05. Teamwork Projects",
+      "ColorIndex": 5
+    },
+    "08d94495-224e-466c-aa6a-0726d22461f7": {
+      "ProjectGuid": "08d94495-224e-466c-aa6a-0726d22461f7",
+      "DisplayName": "06. Vehicle Catalogue",
+      "ColorIndex": 6
+    },
+    "60631193-400f-448d-9089-ec061dc9916a": {
+      "ProjectGuid": "60631193-400f-448d-9089-ec061dc9916a",
+      "DisplayName": "07. Order by Age",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

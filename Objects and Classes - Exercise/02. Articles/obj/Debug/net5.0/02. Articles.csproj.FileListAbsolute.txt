@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.exe
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.deps.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\ref\02. Articles.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\bin\Debug\net5.0\02. Articles.pdb
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\ref\02. Articles.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.pdb
+D:\Programs kvi\Fundamentals\Objects and Classes - Exercise\02. Articles\obj\Debug\net5.0\02. Articles.genruntimeconfig.cache

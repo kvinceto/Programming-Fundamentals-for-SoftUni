@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.exe
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.deps.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\ref\06. Store Boxes.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.pdb
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\ref\06. Store Boxes.dll
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.pdb
+D:\Programs kvi\Fundamentals\Objects and Classes - Lab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.genruntimeconfig.cache
