@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\ref\03. Legendary Farming.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\net5.0\03. Legendary Farming.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\ref\03. Legendary Farming.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\net5.0\03. Legendary Farming.genruntimeconfig.cache

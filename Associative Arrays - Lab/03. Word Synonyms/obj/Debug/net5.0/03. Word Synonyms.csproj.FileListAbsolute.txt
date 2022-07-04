@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\ref\03. Word Synonyms.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\ref\03. Word Synonyms.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.genruntimeconfig.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.csproj.AssemblyReference.cache

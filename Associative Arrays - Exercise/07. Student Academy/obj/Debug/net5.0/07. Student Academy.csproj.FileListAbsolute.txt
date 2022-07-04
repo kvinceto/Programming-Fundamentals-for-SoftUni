@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\ref\07. Student Academy.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\net5.0\07. Student Academy.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\ref\07. Student Academy.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\net5.0\07. Student Academy.genruntimeconfig.cache

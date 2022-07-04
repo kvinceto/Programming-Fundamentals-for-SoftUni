@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SwJjGERn4Tl+Ns/UIkk1RcfcMKM4TJo+YzzsrzFoWZHVxtjJ/c8irz4A6aC9xydxnd5a5tFg7LXfIVWUSMBWDQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Associative Arrays - Lab\\04. Word Filter\\04. Word Filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

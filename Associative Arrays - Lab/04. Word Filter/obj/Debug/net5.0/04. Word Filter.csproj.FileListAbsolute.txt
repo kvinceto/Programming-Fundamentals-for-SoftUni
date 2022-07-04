@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\ref\04. Word Filter.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\bin\Debug\net5.0\04. Word Filter.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\ref\04. Word Filter.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\04. Word Filter\obj\Debug\net5.0\04. Word Filter.genruntimeconfig.cache

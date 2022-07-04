@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\ref\08. Company Users.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\bin\Debug\net5.0\08. Company Users.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\ref\08. Company Users.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\08. Company Users\obj\Debug\net5.0\08. Company Users.genruntimeconfig.cache

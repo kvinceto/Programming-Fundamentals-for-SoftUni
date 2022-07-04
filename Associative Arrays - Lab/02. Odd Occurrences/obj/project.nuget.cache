@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkWaBcWa/Zj3Q+pwYQCzSY2StxXCnkUk0AGder+RNejJh3+SIGaz0H2frOGoAoLEMNcWF9y9YT10D+mnxQ1ixg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Associative Arrays - Lab\\02. Odd Occurrences\\02. Odd Occurrences.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

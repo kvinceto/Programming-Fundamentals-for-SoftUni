@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\ref\06. Courses.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\bin\Debug\net5.0\06. Courses.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\ref\06. Courses.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\06. Courses\obj\Debug\net5.0\06. Courses.genruntimeconfig.cache

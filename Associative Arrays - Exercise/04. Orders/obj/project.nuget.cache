@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n8/vjSMOeCnP9DTzwH+AeQo9EyL2Zn2T9vxFiPHviwL8w3mSnoQOMRpvbYOvjR0hmqKheReEVzGIiY4oaNKB2w==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Associative Arrays - Exercise\\04. Orders\\04. Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

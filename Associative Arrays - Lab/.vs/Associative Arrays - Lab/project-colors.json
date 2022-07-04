@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dca80eca-6d02-4f5f-9767-487a73763601": {
+      "ProjectGuid": "dca80eca-6d02-4f5f-9767-487a73763601",
+      "DisplayName": "01. Count Real Numbers",
+      "ColorIndex": 0
+    },
+    "182a6436-cfec-4198-a861-bb280191e784": {
+      "ProjectGuid": "182a6436-cfec-4198-a861-bb280191e784",
+      "DisplayName": "02. Odd Occurrences",
+      "ColorIndex": 1
+    },
+    "b78fd681-aa5b-48b0-81ef-214d01517483": {
+      "ProjectGuid": "b78fd681-aa5b-48b0-81ef-214d01517483",
+      "DisplayName": "03. Word Synonyms",
+      "ColorIndex": 2
+    },
+    "c8d9bfe6-8da3-4b65-b22c-188061acdedc": {
+      "ProjectGuid": "c8d9bfe6-8da3-4b65-b22c-188061acdedc",
+      "DisplayName": "04. Word Filter",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

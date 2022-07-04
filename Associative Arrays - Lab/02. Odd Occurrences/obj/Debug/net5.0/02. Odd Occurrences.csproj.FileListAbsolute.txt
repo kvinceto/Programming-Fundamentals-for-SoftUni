@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\ref\02. Odd Occurrences.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\bin\Debug\net5.0\02. Odd Occurrences.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\ref\02. Odd Occurrences.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Lab\02. Odd Occurrences\obj\Debug\net5.0\02. Odd Occurrences.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\ref\01. Count Chars in a String.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\ref\01. Count Chars in a String.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - Exercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.genruntimeconfig.cache
