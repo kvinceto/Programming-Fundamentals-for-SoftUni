@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fAb7hDPo51Mq/NvKng6QfxG57VFxnl6ieYm7GuM1xq8DYuNH5AROx6qBOKJ3x9y20xiD8LBwE8kS/N0yI3jjOg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Associative Arrays - More Exercise\\04. Snowwhite\\04. Snowwhite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

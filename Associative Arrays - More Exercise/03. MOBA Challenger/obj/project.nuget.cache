@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2uHAlxX8quA7Pq/79FKeJ0K5hU1BMe54drSBMA1Stt3d2FNZWlsk2KCuBSpKQCf9jM5gdtR2afkAdPt0j/UIXg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Associative Arrays - More Exercise\\03. MOBA Challenger\\03. MOBA Challenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

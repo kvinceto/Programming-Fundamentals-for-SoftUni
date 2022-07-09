@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHvZSrnxKbeeyfMjzacAgJr8ZA/u1pn+9n7NXFyPoXs8qyGvfzwEj5XgEGJOeS05XLhFHekQ9G+2uOdT07tMHQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Associative Arrays - More Exercise\\05. Dragon Army\\05. Dragon Army.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

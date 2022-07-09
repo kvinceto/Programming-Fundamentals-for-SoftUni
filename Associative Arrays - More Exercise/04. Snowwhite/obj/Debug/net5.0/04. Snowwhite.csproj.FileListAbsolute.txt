@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\net5.0\ref\04. Snowwhite.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\net5.0\04. Snowwhite.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\net5.0\ref\04. Snowwhite.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\net5.0\04. Snowwhite.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\ref\02. Judge.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\bin\Debug\net5.0\02. Judge.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\ref\02. Judge.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\02. Judge\obj\Debug\net5.0\02. Judge.genruntimeconfig.cache

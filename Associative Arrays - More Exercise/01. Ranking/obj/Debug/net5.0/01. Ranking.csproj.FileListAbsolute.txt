@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.exe
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.deps.json
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\ref\01. Ranking.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\bin\Debug\net5.0\01. Ranking.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\ref\01. Ranking.dll
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.pdb
+D:\Programs kvi\Fundamentals\Associative Arrays - More Exercise\01. Ranking\obj\Debug\net5.0\01. Ranking.genruntimeconfig.cache
