@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.exe
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.deps.json
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.dll
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\net5.0\ref\03. Substring.dll
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.dll
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\net5.0\ref\03. Substring.dll
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.genruntimeconfig.cache
