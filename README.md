@@ -8,4 +8,4 @@ These projects ware meant to help me lern:
 - How to create and manipulate lists
 - How to create methods and how to use them
 - How to create simple classes and how to create objects
-- How to create Dictionaryes, SortedDictionatyes, and how to use LINQ and Lambda functions
+- How to create Dictionaryes, SortedDictionatyes, SortedLists and how to use LINQ and Lambda functions
