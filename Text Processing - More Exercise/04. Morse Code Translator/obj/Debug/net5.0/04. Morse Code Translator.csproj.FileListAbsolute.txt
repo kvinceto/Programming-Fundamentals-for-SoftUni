@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.exe
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.deps.json
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net5.0\ref\04. Morse Code Translator.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\net5.0\04. Morse Code Translator.pdb
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net5.0\ref\04. Morse Code Translator.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.pdb
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\net5.0\04. Morse Code Translator.genruntimeconfig.cache

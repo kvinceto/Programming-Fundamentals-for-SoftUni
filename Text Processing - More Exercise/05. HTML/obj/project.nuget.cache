@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCTbOxXHRgodLCtDpryI+DFThsPhydEqCWCYzwsGFEcDKM1Yjb/oKZybNZASjZBoSB3Q8vzqHCksVqXDDmlNsA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Text Processing - More Exercise\\05. HTML\\05. HTML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
