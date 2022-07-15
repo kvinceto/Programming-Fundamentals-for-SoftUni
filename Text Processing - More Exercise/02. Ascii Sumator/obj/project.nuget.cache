@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PD5zb19H3e5Fr3N/MSrl83SF94uGSTCRGsthhf/vLi5qhP6WtH1JnSlcF/hR06qWMdRzORCq442q9PAhd7ozYA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Text Processing - More Exercise\\02. Ascii Sumator\\02. Ascii Sumator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

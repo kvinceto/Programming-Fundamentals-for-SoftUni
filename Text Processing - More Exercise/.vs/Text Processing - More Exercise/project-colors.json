@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9db93b2c-9d3b-4184-bb5e-b100ca761303": {
+      "ProjectGuid": "9db93b2c-9d3b-4184-bb5e-b100ca761303",
+      "DisplayName": "01. Extract Person Information",
+      "ColorIndex": 0
+    },
+    "e00ffa4f-da50-42b4-a6f7-835c5d601d7d": {
+      "ProjectGuid": "e00ffa4f-da50-42b4-a6f7-835c5d601d7d",
+      "DisplayName": "02. Ascii Sumator",
+      "ColorIndex": 1
+    },
+    "69b37b6a-02fc-4e3d-a902-753474ead534": {
+      "ProjectGuid": "69b37b6a-02fc-4e3d-a902-753474ead534",
+      "DisplayName": "03. Treasure Finder",
+      "ColorIndex": 2
+    },
+    "efce0e6f-5222-4d85-a671-01bff4a477ed": {
+      "ProjectGuid": "efce0e6f-5222-4d85-a671-01bff4a477ed",
+      "DisplayName": "04. Morse Code Translator",
+      "ColorIndex": 3
+    },
+    "daa44d0c-5653-4f62-8670-f177afc26f9a": {
+      "ProjectGuid": "daa44d0c-5653-4f62-8670-f177afc26f9a",
+      "DisplayName": "05. HTML",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IlfROIP4ozXPsofqdOB7GE8yF9Hbb1bHfnTsaW+tIcN9OXLTTa0v6tM3N7bCRpENzPgNYCIW5T+EZ9yVEYX6uA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Text Processing - More Exercise\\04. Morse Code Translator\\04. Morse Code Translator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

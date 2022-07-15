@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.exe
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.deps.json
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\ref\03. Treasure Finder.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\net5.0\03. Treasure Finder.pdb
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\ref\03. Treasure Finder.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.pdb
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\net5.0\03. Treasure Finder.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.exe
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.deps.json
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\ref\01. Extract Person Information.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\bin\Debug\net5.0\01. Extract Person Information.pdb
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\ref\01. Extract Person Information.dll
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.pdb
+D:\Programs kvi\Fundamentals\Text Processing - More Exercise\01. Extract Person Information\obj\Debug\net5.0\01. Extract Person Information.genruntimeconfig.cache
