@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.exe
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.deps.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\ref\03. Extract File.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\bin\Debug\net5.0\03. Extract File.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\ref\03. Extract File.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\03. Extract File\obj\Debug\net5.0\03. Extract File.genruntimeconfig.cache

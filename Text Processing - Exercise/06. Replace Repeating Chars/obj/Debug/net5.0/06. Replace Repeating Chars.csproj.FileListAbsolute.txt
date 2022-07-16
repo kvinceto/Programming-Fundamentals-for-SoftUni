@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.exe
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.deps.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\ref\06. Replace Repeating Chars.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\ref\06. Replace Repeating Chars.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.genruntimeconfig.cache

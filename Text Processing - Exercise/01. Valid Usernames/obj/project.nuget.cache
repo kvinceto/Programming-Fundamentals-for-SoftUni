@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "le+tZwMqmwuhKl8n5igQ0UiiCB1RDdARrMQ0jFkU90wFIp/dTXhHkoFra4i9axpIp9M4mhQUNeWIGfSqPB5tIQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Text Processing - Exercise\\01. Valid Usernames\\01. Valid Usernames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

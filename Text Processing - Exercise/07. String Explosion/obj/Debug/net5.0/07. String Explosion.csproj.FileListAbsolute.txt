@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.exe
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.deps.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\ref\07. String Explosion.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\net5.0\07. String Explosion.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\ref\07. String Explosion.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\net5.0\07. String Explosion.genruntimeconfig.cache

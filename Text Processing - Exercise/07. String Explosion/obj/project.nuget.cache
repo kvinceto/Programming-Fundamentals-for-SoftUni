@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Mge6uBOv2doCCHy2OJ+581YKrxnydyvScqfhhTzLZ9mFHtE1+6VzYTEIy5H3aItokrTjus9ZRF6womcS3Ok3g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Text Processing - Exercise\\07. String Explosion\\07. String Explosion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

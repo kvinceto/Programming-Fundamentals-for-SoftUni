@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.exe
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.deps.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net5.0\ref\08. Letters Change Numbers.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\bin\Debug\net5.0\08. Letters Change Numbers.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net5.0\ref\08. Letters Change Numbers.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\08. Letters Change Numbers\obj\Debug\net5.0\08. Letters Change Numbers.genruntimeconfig.cache

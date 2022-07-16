@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.exe
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.deps.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\ref\02. Character Multiplier.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\ref\02. Character Multiplier.dll
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.pdb
+D:\Programs kvi\Fundamentals\Text Processing - Exercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.genruntimeconfig.cache
