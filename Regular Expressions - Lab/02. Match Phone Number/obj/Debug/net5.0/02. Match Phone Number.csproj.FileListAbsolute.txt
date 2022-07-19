@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.exe
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.deps.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\ref\02. Match Phone Number.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\net5.0\02. Match Phone Number.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\ref\02. Match Phone Number.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\net5.0\02. Match Phone Number.genruntimeconfig.cache

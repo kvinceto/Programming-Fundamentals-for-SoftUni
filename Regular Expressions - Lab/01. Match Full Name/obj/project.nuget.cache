@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnKq3MWcQq6Exs1XOtRj0dEGY0KW0BWhoQrGrY9PcGtMVQT3J3eiKVjAcwVXbY7vHezFr7a6jH/CMaWDjHwuww==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Regular Expressions - Lab\\01. Match Full Name\\01. Match Full Name.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

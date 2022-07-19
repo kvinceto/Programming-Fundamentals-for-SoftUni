@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.exe
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.deps.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\ref\01. Match Full Name.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net5.0\01. Match Full Name.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\ref\01. Match Full Name.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net5.0\01. Match Full Name.genruntimeconfig.cache

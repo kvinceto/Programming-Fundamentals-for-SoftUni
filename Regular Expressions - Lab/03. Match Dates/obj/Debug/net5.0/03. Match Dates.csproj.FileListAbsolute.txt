@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.exe
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.deps.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\ref\03. Match Dates.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\bin\Debug\net5.0\03. Match Dates.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\ref\03. Match Dates.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Lab\03. Match Dates\obj\Debug\net5.0\03. Match Dates.genruntimeconfig.cache

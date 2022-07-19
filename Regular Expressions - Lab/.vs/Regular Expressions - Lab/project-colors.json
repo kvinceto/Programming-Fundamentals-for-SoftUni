@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1aa64c25-1ae5-4faa-b303-3287ba26ebb6": {
+      "ProjectGuid": "1aa64c25-1ae5-4faa-b303-3287ba26ebb6",
+      "DisplayName": "01. Match Full Name",
+      "ColorIndex": 0
+    },
+    "b4102a82-ef0e-4d10-b475-e5052a71052a": {
+      "ProjectGuid": "b4102a82-ef0e-4d10-b475-e5052a71052a",
+      "DisplayName": "02. Match Phone Number",
+      "ColorIndex": 1
+    },
+    "d149e6e9-f6a0-473d-baac-b108e2f51261": {
+      "ProjectGuid": "d149e6e9-f6a0-473d-baac-b108e2f51261",
+      "DisplayName": "03. Match Dates",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
