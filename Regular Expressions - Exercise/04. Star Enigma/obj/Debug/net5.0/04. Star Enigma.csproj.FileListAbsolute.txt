@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.exe
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.deps.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\ref\04. Star Enigma.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\net5.0\04. Star Enigma.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\ref\04. Star Enigma.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\net5.0\04. Star Enigma.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b44413e8-59d7-4a59-8126-4118acd1e16d": {
+      "ProjectGuid": "b44413e8-59d7-4a59-8126-4118acd1e16d",
+      "DisplayName": "01. Furniture",
+      "ColorIndex": 0
+    },
+    "3a3c0372-98f1-41b0-aaf4-f9d80c12dd24": {
+      "ProjectGuid": "3a3c0372-98f1-41b0-aaf4-f9d80c12dd24",
+      "DisplayName": "02. Race",
+      "ColorIndex": 1
+    },
+    "fd91b1b8-1927-409f-83b1-bb552e00270d": {
+      "ProjectGuid": "fd91b1b8-1927-409f-83b1-bb552e00270d",
+      "DisplayName": "03. SoftUni Bar Income",
+      "ColorIndex": 2
+    },
+    "7e9f9656-4dda-45d8-890e-1bfdc42a8fe3": {
+      "ProjectGuid": "7e9f9656-4dda-45d8-890e-1bfdc42a8fe3",
+      "DisplayName": "04. Star Enigma",
+      "ColorIndex": 3
+    },
+    "8309b9e3-d992-465f-a79a-b4a88381f348": {
+      "ProjectGuid": "8309b9e3-d992-465f-a79a-b4a88381f348",
+      "DisplayName": "05. Nether Realms",
+      "ColorIndex": 4
+    },
+    "3759b5ce-eeab-4108-b745-fdad038dfc3a": {
+      "ProjectGuid": "3759b5ce-eeab-4108-b745-fdad038dfc3a",
+      "DisplayName": "06. Extract Emails",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

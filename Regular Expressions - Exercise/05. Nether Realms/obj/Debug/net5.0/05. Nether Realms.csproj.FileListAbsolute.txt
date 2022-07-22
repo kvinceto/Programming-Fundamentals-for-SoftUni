@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.exe
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.deps.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\ref\05. Nether Realms.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\bin\Debug\net5.0\05. Nether Realms.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\ref\05. Nether Realms.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.genruntimeconfig.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\05. Nether Realms\obj\Debug\net5.0\05. Nether Realms.csproj.AssemblyReference.cache

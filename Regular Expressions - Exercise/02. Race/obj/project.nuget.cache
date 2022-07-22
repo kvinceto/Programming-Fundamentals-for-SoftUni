@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3e0dtqGiZjq47YXTmNW0vYxRS8FQ30PPRBgiaot94xwtk2Oa6KwSgx73p7koj1tUamS9BIW6GvZXmNZLRwaQg==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Regular Expressions - Exercise\\02. Race\\02. Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

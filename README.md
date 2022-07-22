@@ -11,3 +11,4 @@ These projects ware meant to help me lern:
 - How to create Dictionaryes, SortedDictionatyes, SortedLists and how to use LINQ and Lambda functions
 - How to do simple bitwise oparations
 - How to do mapipulations of strings
+- How to use regular expresions (regex)

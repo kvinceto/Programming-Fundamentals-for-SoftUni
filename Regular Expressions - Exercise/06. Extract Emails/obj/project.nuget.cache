@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWqZ9+D8UE/EuUi4L8A8YSGh1gMfOIlzgHI3lzg5N77S3xDPgxx0bvFC/fKCyv/v/6NzbLK7wJ5BsltXBT/GcQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Regular Expressions - Exercise\\06. Extract Emails\\06. Extract Emails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

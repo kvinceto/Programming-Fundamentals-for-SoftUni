@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.exe
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.deps.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\ref\03. SoftUni Bar Income.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\bin\Debug\net5.0\03. SoftUni Bar Income.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\ref\03. SoftUni Bar Income.dll
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.pdb
+D:\Programs kvi\Fundamentals\Regular Expressions - Exercise\03. SoftUni Bar Income\obj\Debug\net5.0\03. SoftUni Bar Income.genruntimeconfig.cache

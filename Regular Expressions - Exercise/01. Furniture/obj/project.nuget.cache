@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJ7e6G/af9vsyaK+5rWp0zDRpQDx6TAR76AhWShcl7s8e3VMl4G1J+f5aEi1cvoWnLQBZozOyldiFbKBpOrUXw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Regular Expressions - Exercise\\01. Furniture\\01. Furniture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gunrpEC84G1Ed7jHH0T8JQY+79K/EICZcT4S6J3i43ivM5UPRk+BxTI+BYcF4BQz/C1vkVg6l6F0xNkDs0RL/g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Regular Expressions - Exercise\\04. Star Enigma\\04. Star Enigma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
