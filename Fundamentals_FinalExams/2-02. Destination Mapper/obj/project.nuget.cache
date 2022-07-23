@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QQb7XEi/xRunOrjh6cwdEQP/46oYKIP1Y5A4bB+kSXUxglvPTRhK4NvM9SwOjd4vQZHpT+4+NGHsCNfkZwPYZw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\2-02. Destination Mapper\\2-02. Destination Mapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

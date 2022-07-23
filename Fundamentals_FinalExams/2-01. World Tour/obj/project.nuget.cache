@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZUFi16uo7r+N/1kCvzxoNjIKyG/t+zFDBGU9VAVcsepi9EuG0QRQgveWW7jAL+LNKSnljKaqNaj8cGgM09zT3g==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\2-01. World Tour\\2-01. World Tour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

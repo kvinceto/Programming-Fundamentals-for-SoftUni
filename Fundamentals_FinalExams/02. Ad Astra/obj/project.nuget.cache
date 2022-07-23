@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LoNsQY7sqFqwzXvZJvMqiaIHIJ45I9u5ZvOwJqzuq8M5B3kL2PPvdFeXM7gomLeyu3F6Ha8TLAicAgVkbYxpaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\02. Ad Astra\\02. Ad Astra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

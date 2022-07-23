@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\bin\Debug\net5.0\2-02. Destination Mapper.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\bin\Debug\net5.0\2-02. Destination Mapper.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\bin\Debug\net5.0\2-02. Destination Mapper.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\bin\Debug\net5.0\2-02. Destination Mapper.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\bin\Debug\net5.0\2-02. Destination Mapper.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\bin\Debug\net5.0\ref\2-02. Destination Mapper.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\bin\Debug\net5.0\2-02. Destination Mapper.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\obj\Debug\net5.0\2-02. Destination Mapper.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\obj\Debug\net5.0\2-02. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\obj\Debug\net5.0\2-02. Destination Mapper.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\obj\Debug\net5.0\2-02. Destination Mapper.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\obj\Debug\net5.0\2-02. Destination Mapper.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\obj\Debug\net5.0\2-02. Destination Mapper.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\obj\Debug\net5.0\ref\2-02. Destination Mapper.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\obj\Debug\net5.0\2-02. Destination Mapper.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-02. Destination Mapper\obj\Debug\net5.0\2-02. Destination Mapper.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\bin\Debug\net5.0\3-02. Mirror Words.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\bin\Debug\net5.0\3-02. Mirror Words.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\bin\Debug\net5.0\3-02. Mirror Words.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\bin\Debug\net5.0\3-02. Mirror Words.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\bin\Debug\net5.0\3-02. Mirror Words.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\bin\Debug\net5.0\ref\3-02. Mirror Words.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\bin\Debug\net5.0\3-02. Mirror Words.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\obj\Debug\net5.0\3-02. Mirror Words.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\obj\Debug\net5.0\3-02. Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\obj\Debug\net5.0\3-02. Mirror Words.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\obj\Debug\net5.0\3-02. Mirror Words.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\obj\Debug\net5.0\3-02. Mirror Words.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\obj\Debug\net5.0\3-02. Mirror Words.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\obj\Debug\net5.0\ref\3-02. Mirror Words.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\obj\Debug\net5.0\3-02. Mirror Words.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-02. Mirror Words\obj\Debug\net5.0\3-02. Mirror Words.genruntimeconfig.cache

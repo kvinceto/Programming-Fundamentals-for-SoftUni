@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TU/lkEuwTQKq8ZXJa7cniNIZ0M/d2I4LacK7lBHBpkXNk7nFRIrPY/G0GjsABtXy9UB/TihSghst3MDxcZkxw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\01. The Imitation Game\\01. The Imitation Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\bin\Debug\net5.0\2-03. Plant Discovery.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\bin\Debug\net5.0\2-03. Plant Discovery.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\bin\Debug\net5.0\2-03. Plant Discovery.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\bin\Debug\net5.0\2-03. Plant Discovery.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\bin\Debug\net5.0\2-03. Plant Discovery.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\bin\Debug\net5.0\ref\2-03. Plant Discovery.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\bin\Debug\net5.0\2-03. Plant Discovery.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\obj\Debug\net5.0\2-03. Plant Discovery.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\obj\Debug\net5.0\2-03. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\obj\Debug\net5.0\2-03. Plant Discovery.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\obj\Debug\net5.0\2-03. Plant Discovery.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\obj\Debug\net5.0\2-03. Plant Discovery.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\obj\Debug\net5.0\2-03. Plant Discovery.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\obj\Debug\net5.0\ref\2-03. Plant Discovery.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\obj\Debug\net5.0\2-03. Plant Discovery.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-03. Plant Discovery\obj\Debug\net5.0\2-03. Plant Discovery.genruntimeconfig.cache

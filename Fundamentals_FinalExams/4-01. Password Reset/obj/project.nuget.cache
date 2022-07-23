@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDiAehfTTgWEqnz7GDA4Mcs0IhiskDigJ/9YEs+EOLFFR5syaoWbkMt3uONKulj1E9xQRpmxjDlra434Elyy1A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\4-01. Password Reset\\4-01. Password Reset.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

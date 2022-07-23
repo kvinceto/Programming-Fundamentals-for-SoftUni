@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNn8scUJLORAvVcvfI63i+lvFcGN/ph3iRcNxTwDv4KPVxEHmPyaJSv0+nQ83YOxezTWXq4N2dgsCX2CIKrE/w==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\3-01. Secret Chat\\3-01. Secret Chat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

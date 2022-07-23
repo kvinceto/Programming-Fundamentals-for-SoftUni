@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\bin\Debug\net5.0\4-02. Fancy Barcodes.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\bin\Debug\net5.0\4-02. Fancy Barcodes.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\bin\Debug\net5.0\4-02. Fancy Barcodes.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\bin\Debug\net5.0\4-02. Fancy Barcodes.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\bin\Debug\net5.0\4-02. Fancy Barcodes.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\bin\Debug\net5.0\ref\4-02. Fancy Barcodes.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\bin\Debug\net5.0\4-02. Fancy Barcodes.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\obj\Debug\net5.0\4-02. Fancy Barcodes.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\obj\Debug\net5.0\4-02. Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\obj\Debug\net5.0\4-02. Fancy Barcodes.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\obj\Debug\net5.0\4-02. Fancy Barcodes.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\obj\Debug\net5.0\4-02. Fancy Barcodes.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\obj\Debug\net5.0\4-02. Fancy Barcodes.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\obj\Debug\net5.0\ref\4-02. Fancy Barcodes.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\obj\Debug\net5.0\4-02. Fancy Barcodes.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-02. Fancy Barcodes\obj\Debug\net5.0\4-02. Fancy Barcodes.genruntimeconfig.cache

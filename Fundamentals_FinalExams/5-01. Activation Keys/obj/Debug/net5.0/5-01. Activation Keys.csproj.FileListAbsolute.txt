@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\bin\Debug\net5.0\5-01. Activation Keys.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\bin\Debug\net5.0\5-01. Activation Keys.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\bin\Debug\net5.0\5-01. Activation Keys.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\bin\Debug\net5.0\5-01. Activation Keys.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\bin\Debug\net5.0\5-01. Activation Keys.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\bin\Debug\net5.0\ref\5-01. Activation Keys.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\bin\Debug\net5.0\5-01. Activation Keys.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\obj\Debug\net5.0\5-01. Activation Keys.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\obj\Debug\net5.0\5-01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\obj\Debug\net5.0\5-01. Activation Keys.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\obj\Debug\net5.0\5-01. Activation Keys.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\obj\Debug\net5.0\5-01. Activation Keys.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\obj\Debug\net5.0\5-01. Activation Keys.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\obj\Debug\net5.0\ref\5-01. Activation Keys.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\obj\Debug\net5.0\5-01. Activation Keys.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-01. Activation Keys\obj\Debug\net5.0\5-01. Activation Keys.genruntimeconfig.cache

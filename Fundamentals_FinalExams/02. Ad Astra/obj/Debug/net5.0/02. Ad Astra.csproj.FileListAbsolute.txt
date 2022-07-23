@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\bin\Debug\net5.0\ref\02. Ad Astra.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\bin\Debug\net5.0\02. Ad Astra.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\obj\Debug\net5.0\ref\02. Ad Astra.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\02. Ad Astra\obj\Debug\net5.0\02. Ad Astra.genruntimeconfig.cache

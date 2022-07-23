@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nXWGwI/Uua06RVZSB6IELpHFNyb5TogYImwQjEyI7l1kWPA9zgVNc++2tmJMoBXH1IRT+ltp8VFxS1+JkL17wQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\5-03. P!rates\\5-03. P!rates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

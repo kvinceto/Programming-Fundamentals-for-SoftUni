@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\bin\Debug\net5.0\03. The Pianist.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\bin\Debug\net5.0\03. The Pianist.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\bin\Debug\net5.0\03. The Pianist.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\bin\Debug\net5.0\03. The Pianist.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\bin\Debug\net5.0\ref\03. The Pianist.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\bin\Debug\net5.0\03. The Pianist.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\obj\Debug\net5.0\03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\obj\Debug\net5.0\03. The Pianist.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\obj\Debug\net5.0\03. The Pianist.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\obj\Debug\net5.0\03. The Pianist.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\obj\Debug\net5.0\ref\03. The Pianist.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\obj\Debug\net5.0\03. The Pianist.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\03. The Pianist\obj\Debug\net5.0\03. The Pianist.genruntimeconfig.cache

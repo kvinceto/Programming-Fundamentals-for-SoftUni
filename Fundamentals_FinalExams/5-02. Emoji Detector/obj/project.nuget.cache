@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d/SnXpYSHX4M6tUUavpU6fBXBNRXAhgegITAD7i87IaRUlGKcPkXpOZ4ax4YsimV1Jli1eHvuIvvEZwfTAcVnA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\5-02. Emoji Detector\\5-02. Emoji Detector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

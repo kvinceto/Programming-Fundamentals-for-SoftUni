@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\bin\Debug\net5.0\5-02. Emoji Detector.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\bin\Debug\net5.0\5-02. Emoji Detector.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\bin\Debug\net5.0\5-02. Emoji Detector.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\bin\Debug\net5.0\5-02. Emoji Detector.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\bin\Debug\net5.0\5-02. Emoji Detector.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\bin\Debug\net5.0\ref\5-02. Emoji Detector.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\bin\Debug\net5.0\5-02. Emoji Detector.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\obj\Debug\net5.0\5-02. Emoji Detector.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\obj\Debug\net5.0\5-02. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\obj\Debug\net5.0\5-02. Emoji Detector.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\obj\Debug\net5.0\5-02. Emoji Detector.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\obj\Debug\net5.0\5-02. Emoji Detector.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\obj\Debug\net5.0\5-02. Emoji Detector.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\obj\Debug\net5.0\ref\5-02. Emoji Detector.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\obj\Debug\net5.0\5-02. Emoji Detector.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\5-02. Emoji Detector\obj\Debug\net5.0\5-02. Emoji Detector.genruntimeconfig.cache

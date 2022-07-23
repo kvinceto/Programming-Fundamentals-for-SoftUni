@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIzAP2fpBmekZLhb6cOC2uihlt/CRPtpjinbjTkL53jKAvWjq2a9W1DjBfib/4/aXqweVvM5a7cr9TEtiLvThA==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\3-02. Mirror Words\\3-02. Mirror Words.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PhyrhJtHSYjoP6RrvVAN5EVgJsWSNM9Wzxi+dYfYJ2zA/SvWs4xRuoo0LFgLR/giOHtwEmbI5yYUw5slyOri/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\4-03. Heroes of Code and Logic VII\\4-03. Heroes of Code and Logic VII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

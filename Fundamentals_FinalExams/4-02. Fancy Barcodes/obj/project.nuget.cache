@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BpyPbyhmFnksQRPOY2bMxIZW2w1TKar2W1Ja8atVXsbK2nf/emlrbMe3nFJOjt3nGzas6eMlxgt6/SqNvjlSw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\4-02. Fancy Barcodes\\4-02. Fancy Barcodes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

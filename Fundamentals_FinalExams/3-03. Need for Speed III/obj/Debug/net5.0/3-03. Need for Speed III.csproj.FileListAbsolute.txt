@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\bin\Debug\net5.0\3-03. Need for Speed III.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\bin\Debug\net5.0\3-03. Need for Speed III.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\bin\Debug\net5.0\3-03. Need for Speed III.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\bin\Debug\net5.0\3-03. Need for Speed III.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\bin\Debug\net5.0\3-03. Need for Speed III.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\bin\Debug\net5.0\ref\3-03. Need for Speed III.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\bin\Debug\net5.0\3-03. Need for Speed III.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\obj\Debug\net5.0\3-03. Need for Speed III.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\obj\Debug\net5.0\3-03. Need for Speed III.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\obj\Debug\net5.0\3-03. Need for Speed III.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\obj\Debug\net5.0\3-03. Need for Speed III.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\obj\Debug\net5.0\3-03. Need for Speed III.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\obj\Debug\net5.0\3-03. Need for Speed III.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\obj\Debug\net5.0\ref\3-03. Need for Speed III.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\obj\Debug\net5.0\3-03. Need for Speed III.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\3-03. Need for Speed III\obj\Debug\net5.0\3-03. Need for Speed III.genruntimeconfig.cache

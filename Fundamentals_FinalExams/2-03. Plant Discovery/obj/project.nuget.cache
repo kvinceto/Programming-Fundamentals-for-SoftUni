@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g0fKUtnJhyt+5lTvIX+++hBvf+4WljfItL9tH5RJ4VwSW6gE2JvLkdaPqv5YCcA74AkWaJKLlvuzhs6XhBoIBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\2-03. Plant Discovery\\2-03. Plant Discovery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

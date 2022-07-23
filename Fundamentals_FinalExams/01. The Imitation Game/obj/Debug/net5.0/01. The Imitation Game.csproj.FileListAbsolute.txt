@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\bin\Debug\net5.0\ref\01. The Imitation Game.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\bin\Debug\net5.0\01. The Imitation Game.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\obj\Debug\net5.0\ref\01. The Imitation Game.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\01. The Imitation Game\obj\Debug\net5.0\01. The Imitation Game.genruntimeconfig.cache

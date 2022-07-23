@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZC2kUV8Ae0x2WRKVChNcSx3FkaHGsIGUykQdjoNcoXjx4ZxpBvacb26hIXS1DUMDpqj9WhAPVg7KzycvsNytnQ==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Fundamentals_FinalExams\\5-01. Activation Keys\\5-01. Activation Keys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

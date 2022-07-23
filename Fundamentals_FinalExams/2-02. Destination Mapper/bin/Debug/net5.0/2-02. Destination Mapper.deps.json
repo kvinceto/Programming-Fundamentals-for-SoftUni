@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2-02. Destination Mapper/1.0.0": {
+        "runtime": {
+          "2-02. Destination Mapper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2-02. Destination Mapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

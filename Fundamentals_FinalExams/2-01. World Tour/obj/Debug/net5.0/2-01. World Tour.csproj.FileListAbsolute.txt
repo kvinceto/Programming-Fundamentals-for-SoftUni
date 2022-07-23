@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\bin\Debug\net5.0\2-01. World Tour.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\bin\Debug\net5.0\2-01. World Tour.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\bin\Debug\net5.0\2-01. World Tour.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\bin\Debug\net5.0\2-01. World Tour.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\bin\Debug\net5.0\2-01. World Tour.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\bin\Debug\net5.0\ref\2-01. World Tour.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\bin\Debug\net5.0\2-01. World Tour.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\obj\Debug\net5.0\2-01. World Tour.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\obj\Debug\net5.0\2-01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\obj\Debug\net5.0\2-01. World Tour.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\obj\Debug\net5.0\2-01. World Tour.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\obj\Debug\net5.0\2-01. World Tour.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\obj\Debug\net5.0\2-01. World Tour.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\obj\Debug\net5.0\ref\2-01. World Tour.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\obj\Debug\net5.0\2-01. World Tour.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\2-01. World Tour\obj\Debug\net5.0\2-01. World Tour.genruntimeconfig.cache

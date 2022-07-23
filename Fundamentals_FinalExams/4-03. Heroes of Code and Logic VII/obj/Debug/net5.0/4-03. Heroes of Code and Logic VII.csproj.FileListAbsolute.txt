@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\bin\Debug\net5.0\4-03. Heroes of Code and Logic VII.exe
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\bin\Debug\net5.0\4-03. Heroes of Code and Logic VII.deps.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\bin\Debug\net5.0\4-03. Heroes of Code and Logic VII.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\bin\Debug\net5.0\4-03. Heroes of Code and Logic VII.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\bin\Debug\net5.0\4-03. Heroes of Code and Logic VII.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\bin\Debug\net5.0\ref\4-03. Heroes of Code and Logic VII.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\bin\Debug\net5.0\4-03. Heroes of Code and Logic VII.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\obj\Debug\net5.0\4-03. Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\obj\Debug\net5.0\4-03. Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\obj\Debug\net5.0\4-03. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\obj\Debug\net5.0\4-03. Heroes of Code and Logic VII.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\obj\Debug\net5.0\4-03. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\obj\Debug\net5.0\4-03. Heroes of Code and Logic VII.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\obj\Debug\net5.0\ref\4-03. Heroes of Code and Logic VII.dll
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\obj\Debug\net5.0\4-03. Heroes of Code and Logic VII.pdb
+D:\Programs kvi\Fundamentals\Fundamentals_FinalExams\4-03. Heroes of Code and Logic VII\obj\Debug\net5.0\4-03. Heroes of Code and Logic VII.genruntimeconfig.cache
