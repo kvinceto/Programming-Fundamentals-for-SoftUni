@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "59sFLMFDW2Yh9ZHoAIiBgqWME13tDkZ4sPdhI0HFe6qztANlxuLakoKwKZ1O4gcquKOOjS/ndCgrCCv5wPtUTw==",
+  "success": true,
+  "projectFilePath": "D:\\Programs kvi\\Fundamentals\\Programming Fundamentals Final Exam - 07 August 2022\\01. String Manipulator\\01. String Manipulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

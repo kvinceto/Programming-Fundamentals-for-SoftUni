@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6304e243-fb6f-4044-9907-524f54c21069": {
+      "ProjectGuid": "6304e243-fb6f-4044-9907-524f54c21069",
+      "DisplayName": "01. String Manipulator",
+      "ColorIndex": 0
+    },
+    "c4f007f2-74af-41ee-8138-41627678737e": {
+      "ProjectGuid": "c4f007f2-74af-41ee-8138-41627678737e",
+      "DisplayName": "02. Easter Eggs",
+      "ColorIndex": 1
+    },
+    "e8d14f8c-9622-47ae-a18a-bc5fd18651f7": {
+      "ProjectGuid": "e8d14f8c-9622-47ae-a18a-bc5fd18651f7",
+      "DisplayName": "03. Messages Manager",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

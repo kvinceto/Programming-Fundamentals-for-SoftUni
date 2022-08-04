@@ -1,0 +1,15 @@
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.exe
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.deps.json
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.dll
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\bin\Debug\net5.0\ref\02. Easter Eggs.dll
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\bin\Debug\net5.0\02. Easter Eggs.pdb
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.dll
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\obj\Debug\net5.0\ref\02. Easter Eggs.dll
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.pdb
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\02. Easter Eggs\obj\Debug\net5.0\02. Easter Eggs.genruntimeconfig.cache

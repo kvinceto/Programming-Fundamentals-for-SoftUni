@@ -10,5 +10,5 @@ These projects ware meant to help me lern:
 - How to create simple classes and how to create objects
 - How to create Dictionaryes, SortedDictionatyes, SortedLists and how to use LINQ and Lambda functions
 - How to do simple bitwise oparations
-- How to do manipulations of strings
+- How to do manipulations of strings and how to use StringBuilder
 - How to use regular exprecions (regex)

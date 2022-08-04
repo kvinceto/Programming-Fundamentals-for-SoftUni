@@ -1,0 +1,16 @@
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\bin\Debug\net5.0\03. Messages Manager.exe
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\bin\Debug\net5.0\03. Messages Manager.deps.json
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\bin\Debug\net5.0\03. Messages Manager.runtimeconfig.json
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\bin\Debug\net5.0\03. Messages Manager.runtimeconfig.dev.json
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\bin\Debug\net5.0\03. Messages Manager.dll
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\bin\Debug\net5.0\ref\03. Messages Manager.dll
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\bin\Debug\net5.0\03. Messages Manager.pdb
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\obj\Debug\net5.0\03. Messages Manager.csproj.AssemblyReference.cache
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\obj\Debug\net5.0\03. Messages Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\obj\Debug\net5.0\03. Messages Manager.AssemblyInfoInputs.cache
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\obj\Debug\net5.0\03. Messages Manager.AssemblyInfo.cs
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\obj\Debug\net5.0\03. Messages Manager.csproj.CoreCompileInputs.cache
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\obj\Debug\net5.0\03. Messages Manager.dll
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\obj\Debug\net5.0\ref\03. Messages Manager.dll
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\obj\Debug\net5.0\03. Messages Manager.pdb
+D:\Programs kvi\Fundamentals\Programming Fundamentals Final Exam - 07 August 2022\03. Messages Manager\obj\Debug\net5.0\03. Messages Manager.genruntimeconfig.cache
